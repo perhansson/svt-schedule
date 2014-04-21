@@ -500,7 +500,7 @@
     <change idref="t464" from="t422" from-position="2" resolved="yes">
       <change idref="t464" attribute="effort" type="real" from="28800" to="144000"/>
       <change idref="t464" attribute="internalPrerequisitesString" type="string" to="423FS"/>
-      <change idref="t464" attribute="notesAllowingNil" type="textdata" to="e1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxMjY1XGNvY29hc3VicnRmMTkwCntcZm9udHRibFxmMFxmc3dpc3NcZmNoYXJzZXQwIEhlbHZldGljYTt9CntcY29sb3J0Ymw7XHJlZDI1NVxncmVlbjI1NVxibHVlMjU1O1xyZWQ4NVxncmVlbjg1XGJsdWU4NTt9ClxwYXJkXHR4NTYwXHR4MTEyMFx0eDE2ODBcdHgyMjQwXHR4MjgwMFx0eDMzNjBcdHgzOTIwXHR4NDQ4MFx0eDUwNDBcdHg1NjAwXHR4NjE2MFx0eDY3MjBccGFyZGlybmF0dXJhbAoKXGYwXGZzMjIgXGNmMiBcdXAwIFxub3N1cGVyc3ViIFx1bG5vbmUgXG9ibGlxdWVuZXNzMCBcZXhwYW5zaW9uMCBCb3Jyb3cgY3JhdGUgYW5kIG1vZHVsZXN9"/>
+      <change idref="t464" attribute="notesAllowingNil" type="textdata" to="e1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxMjY1XGNvY29hc3VicnRmMTkwCntcZm9udHRibFxmMFxmc3dpc3NcZmNoYXJzZXQwIEhlbHZldGljYTt9CntcY29sb3J0Ymw7XHJlZDI1NVxncmVlbjI1NVxibHVlMjU1O1xyZWQ4NVxncmVlbjg1XGJsdWU4NTt9ClxwYXJkXHR4NTYwXHR4MTEyMFx0eDE2ODBcdHgyMjQwXHR4MjgwMFx0eDMzNjBcdHgzOTIwXHR4NDQ4MFx0eDUwNDBcdHg1NjAwXHR4NjE2MFx0eDY3MjBccGFyZGlybmF0dXJhbAoKXGYwXGZzMjIgXGNmMiBCb3Jyb3cgY3JhdGUgYW5kIG1vZHVsZXN9"/>
       <change idref="t464" attribute="resourceLeveledDate" type="date" to="2014-05-23T15:00:00.000Z"/>
       <change idref="t464" attribute="title" type="string" to="Temporary Hardware Setup"/>
     </change>
@@ -509,5 +509,1525 @@
     <change idref="t467" attribute="internalPrerequisitesString" type="string" to="402FS" resolved="yes"/>
     <change idref="t468" attribute="noEarlierThanConstraintDate" type="date" from="2014-04-21T15:00:00.000Z" to="2014-05-05T15:00:00.000Z" resolved="yes"/>
     <change idref="t468" attribute="resourceLeveledDate" type="date" from="2014-04-21T15:00:00.000Z" to="2014-05-05T15:00:00.000Z" resolved="yes"/>
+  </task-change-set>
+  <task-change-set user="Per Hansson Adrian" date="2014-04-21T21:21:09.717Z" timestamp="2014-04-21T21:21:09.717Z">
+    <change idref="t1" from="t-1" from-position="0" resolved="yes">
+      <change idref="t1" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t1" attribute="noEarlierThanConstraintDate" type="date" to="2013-01-07T16:00:00.000Z"/>
+      <change idref="t1" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t1" attribute="title" type="string" to="SVT"/>
+    </change>
+    <change idref="t471" to="t-1" to-position="0" resolved="yes">
+      <change idref="t471" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t471" attribute="noEarlierThanConstraintDate" type="date" to="2013-01-07T16:00:00.000Z"/>
+      <change idref="t471" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t471" attribute="title" type="string" to="SVT"/>
+    </change>
+    <change idref="t354" attribute="noEarlierThanConstraintDate" type="date" to="2014-04-18T15:00:00.000Z" resolved="yes"/>
+    <change idref="t355" attribute="noEarlierThanConstraintDate" type="date" to="2014-04-18T15:00:00.000Z" resolved="yes"/>
+    <change idref="t356" attribute="noEarlierThanConstraintDate" type="date" to="2014-04-18T15:00:00.000Z" resolved="yes"/>
+    <change idref="t357" attribute="noEarlierThanConstraintDate" type="date" to="2014-04-18T15:00:00.000Z" resolved="yes"/>
+    <change idref="t372" attribute="internalPrerequisitesString" type="string" from="257FS" resolved="yes"/>
+    <change idref="t372" attribute="resourceLeveledDate" type="date" from="2014-02-03T16:00:00.000Z" to="2014-04-18T15:00:00.000Z" resolved="yes"/>
+    <change idref="t373" attribute="resourceLeveledDate" type="date" from="2014-02-24T16:00:00.000Z" to="2014-05-09T15:00:00.000Z" resolved="yes"/>
+    <change idref="t375" attribute="resourceLeveledDate" type="date" from="2014-03-03T16:00:00.000Z" to="2014-05-16T15:00:00.000Z" resolved="yes"/>
+    <change idref="t376" attribute="resourceLeveledDate" type="date" from="2014-03-10T15:00:00.000Z" to="2014-05-23T15:00:00.000Z" resolved="yes"/>
+    <change idref="t378" attribute="internalPrerequisitesString" type="string" from="257FS" resolved="yes"/>
+    <change idref="t378" attribute="resourceLeveledDate" type="date" from="2014-02-03T16:00:00.000Z" to="2014-04-18T15:00:00.000Z" resolved="yes"/>
+    <change idref="t379" attribute="resourceLeveledDate" type="date" from="2014-02-24T16:00:00.000Z" to="2014-05-09T15:00:00.000Z" resolved="yes"/>
+    <change idref="t380" attribute="resourceLeveledDate" type="date" from="2014-03-03T16:00:00.000Z" to="2014-05-16T15:00:00.000Z" resolved="yes"/>
+    <change idref="t381" attribute="resourceLeveledDate" type="date" from="2014-03-10T15:00:00.000Z" to="2014-05-23T15:00:00.000Z" resolved="yes"/>
+    <change idref="t382" attribute="internalPrerequisitesString" type="string" from="266FS" resolved="yes"/>
+    <change idref="t382" attribute="resourceLeveledDate" type="date" from="2014-02-03T16:00:00.000Z" to="2014-04-18T15:00:00.000Z" resolved="yes"/>
+    <change idref="t383" attribute="resourceLeveledDate" type="date" from="2014-02-24T16:00:00.000Z" to="2014-05-09T15:00:00.000Z" resolved="yes"/>
+    <change idref="t384" attribute="resourceLeveledDate" type="date" from="2014-03-03T16:00:00.000Z" to="2014-05-16T15:00:00.000Z" resolved="yes"/>
+    <change idref="t385" attribute="resourceLeveledDate" type="date" from="2014-03-10T15:00:00.000Z" to="2014-05-23T15:00:00.000Z" resolved="yes"/>
+    <change idref="t386" attribute="internalPrerequisitesString" type="string" from="266FS" resolved="yes"/>
+    <change idref="t386" attribute="resourceLeveledDate" type="date" from="2014-02-03T16:00:00.000Z" to="2014-04-18T15:00:00.000Z" resolved="yes"/>
+    <change idref="t387" attribute="resourceLeveledDate" type="date" from="2014-02-24T16:00:00.000Z" to="2014-05-09T15:00:00.000Z" resolved="yes"/>
+    <change idref="t388" attribute="resourceLeveledDate" type="date" from="2014-03-03T16:00:00.000Z" to="2014-05-16T15:00:00.000Z" resolved="yes"/>
+    <change idref="t389" attribute="resourceLeveledDate" type="date" from="2014-03-10T15:00:00.000Z" to="2014-05-23T15:00:00.000Z" resolved="yes"/>
+    <change idref="t402" attribute="internalPrerequisitesString" type="string" from="4FS, 5FS, 23FS, 56FS, 345FS, 426FS" to="345FS, 418FS, 426FS" resolved="yes"/>
+    <change idref="t417" attribute="noLaterThanConstrainedTaskEnd" type="real" from="1" to="0" resolved="yes"/>
+    <change idref="t418" attribute="internalPrerequisitesString" type="string" from="354FS, 355FS, 356FS, 357FS, 358FS, 359FS, 360FS, 423FS, 424FS" to="354FS, 355FS, 356FS, 357FS, 358FS, 359FS, 360FS, 423FS, 424FS, 429FS, 432FS" resolved="yes"/>
+    <change idref="t418" attribute="resourceLeveledDate" type="date" from="2014-05-24T00:00:00.000Z" to="2014-05-30T00:00:00.000Z" resolved="yes"/>
+    <change idref="t428" attribute="effort" type="real" from="2016000" to="1872000" resolved="yes"/>
+    <change idref="t428" attribute="internalEffortDone" type="real" from="2016000" to="1872000" resolved="yes"/>
+    <change idref="t429" attribute="noLaterThanConstrainedTaskEnd" type="real" from="1" to="0" resolved="yes"/>
+    <change idref="t429" attribute="resourceLeveledDate" type="date" from="2014-05-21T15:00:00.000Z" to="2014-05-28T15:00:00.000Z" resolved="yes"/>
+    <change idref="t434" attribute="internalPrerequisitesString" type="string" from="427FS, 428SS, 428FF" to="428FS" resolved="yes"/>
+    <change idref="t434" attribute="noEarlierThanConstraintDate" type="date" from="2014-04-24T15:00:00.000Z" resolved="yes"/>
+    <change idref="t434" attribute="resourceLeveledDate" type="date" from="2014-04-28T15:00:00.000Z" to="2014-05-05T15:00:00.000Z" resolved="yes"/>
+    <change idref="t437" attribute="noEarlierThanConstraintDate" type="date" from="2014-04-17T15:00:00.000Z" resolved="yes"/>
+    <change idref="t438" attribute="noEarlierThanConstraintDate" type="date" from="2014-04-17T15:00:00.000Z" resolved="yes"/>
+    <change idref="t439" attribute="noEarlierThanConstraintDate" type="date" from="2014-04-17T15:00:00.000Z" resolved="yes"/>
+    <change idref="t440" attribute="noEarlierThanConstraintDate" type="date" from="2014-04-17T15:00:00.000Z" resolved="yes"/>
+    <change idref="t442" attribute="noEarlierThanConstraintDate" type="date" from="2014-04-17T15:00:00.000Z" resolved="yes"/>
+    <change idref="t448" attribute="noEarlierThanConstraintDate" type="date" from="2013-11-25T16:00:00.000Z" resolved="yes"/>
+    <change idref="t462" attribute="resourceLeveledDate" type="date" from="2014-04-21T15:00:00.000Z" to="2014-04-24T15:00:00.000Z" resolved="yes"/>
+    <change idref="t462" attribute="noEarlierThanConstraintDate" type="date" to="2014-04-24T15:00:00.000Z" resolved="yes"/>
+    <change idref="t463" attribute="resourceLeveledDate" type="date" from="2014-04-28T15:00:00.000Z" to="2014-05-01T15:00:00.000Z" resolved="yes"/>
+    <change idref="t586" to="t501" to-position="0" resolved="yes">
+      <change idref="t586" attribute="effort" type="real" from="28800" to="576000"/>
+      <change idref="t586" attribute="resourceLeveledDate" type="date" to="2014-06-23T15:00:00.000Z"/>
+      <change idref="t586" attribute="title" type="string" to="DAQ testing"/>
+    </change>
+    <change idref="t587" to="t501" to-position="1" resolved="yes">
+      <change idref="t587" attribute="effort" type="real" from="28800" to="288000"/>
+      <change idref="t587" attribute="resourceLeveledDate" type="date" to="2014-06-23T15:00:00.000Z"/>
+      <change idref="t587" attribute="title" type="string" to="Survey"/>
+    </change>
+    <change idref="t512" to="t503" to-position="0" resolved="yes">
+      <change idref="t512" attribute="effort" type="real" from="28800" to="1728000"/>
+      <change idref="t512" attribute="resourceLeveledDate" type="date" to="2013-10-01T15:00:00.000Z"/>
+      <change idref="t512" attribute="styleDict" type="dict" to="{
+    &quot;font-fill&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+    &quot;gantt-fill-color&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+}"/>
+      <change idref="t512" attribute="title" type="string" to="Design"/>
+    </change>
+    <change idref="t513" to="t503" to-position="1" resolved="yes">
+      <change idref="t513" attribute="effort" type="real" from="28800" to="1728000"/>
+      <change idref="t513" attribute="internalPrerequisitesString" type="string" to="506FS, 512FS"/>
+      <change idref="t513" attribute="resourceLeveledDate" type="date" to="2013-12-24T16:00:00.000Z"/>
+      <change idref="t513" attribute="styleDict" type="dict" to="{
+    &quot;font-fill&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+    &quot;gantt-fill-color&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+}"/>
+      <change idref="t513" attribute="title" type="string" to="Procurement"/>
+    </change>
+    <change idref="t514" to="t503" to-position="2" resolved="yes">
+      <change idref="t514" attribute="effort" type="real" from="28800" to="288000"/>
+      <change idref="t514" attribute="internalPrerequisitesString" type="string" to="513FS"/>
+      <change idref="t514" attribute="resourceLeveledDate" type="date" to="2014-03-18T15:00:00.000Z"/>
+      <change idref="t514" attribute="styleDict" type="dict" to="{
+    &quot;font-fill&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+    &quot;gantt-fill-color&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+}"/>
+      <change idref="t514" attribute="title" type="string" to="Fabrication"/>
+    </change>
+    <change idref="t515" to="t503" to-position="3" resolved="yes">
+      <change idref="t515" attribute="effort" type="real" from="28800" to="288000"/>
+      <change idref="t515" attribute="internalPrerequisitesString" type="string" to="417FS, 456FS, 514FS"/>
+      <change idref="t515" attribute="noEarlierThanConstraintDate" type="date" to="2014-04-16T07:00:00.000Z"/>
+      <change idref="t515" attribute="resourceLeveledDate" type="date" to="2014-05-20T15:00:00.000Z"/>
+      <change idref="t515" attribute="styleDict" type="dict" to="{
+    &quot;font-fill&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+    &quot;gantt-fill-color&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+}"/>
+      <change idref="t515" attribute="title" type="string" to="Assembly"/>
+    </change>
+    <change idref="t510" to="t503" to-position="4" resolved="yes">
+      <change idref="t510" attribute="effort" type="real" from="28800" to="576000"/>
+      <change idref="t510" attribute="internalPrerequisitesString" type="string" to="515FS"/>
+      <change idref="t510" attribute="resourceLeveledDate" type="date" to="2014-06-03T15:00:00.000Z"/>
+      <change idref="t510" attribute="styleDict" type="dict" to="{
+    &quot;font-fill&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+    &quot;gantt-fill-color&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+}"/>
+      <change idref="t510" attribute="title" type="string" to="Testing"/>
+    </change>
+    <change idref="t580" to="t504" to-position="0" resolved="yes">
+      <change idref="t580" attribute="effort" type="real" from="28800" to="288000"/>
+      <change idref="t580" attribute="internalPrerequisitesString" type="string" to="536FS, 559FS"/>
+      <change idref="t580" attribute="resourceLeveledDate" type="date" to="2014-05-12T15:00:00.000Z"/>
+      <change idref="t580" attribute="styleDict" type="dict" to="{
+    &quot;font-fill&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+}"/>
+      <change idref="t580" attribute="title" type="string" to="Design"/>
+    </change>
+    <change idref="t581" to="t504" to-position="1" resolved="yes">
+      <change idref="t581" attribute="effort" type="real" from="28800" to="576000"/>
+      <change idref="t581" attribute="internalPrerequisitesString" type="string" to="580FS"/>
+      <change idref="t581" attribute="resourceLeveledDate" type="date" to="2014-05-26T15:00:00.000Z"/>
+      <change idref="t581" attribute="styleDict" type="dict" to="{
+    &quot;font-fill&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+}"/>
+      <change idref="t581" attribute="title" type="string" to="Procurement"/>
+    </change>
+    <change idref="t582" to="t504" to-position="2" resolved="yes">
+      <change idref="t582" attribute="effort" type="real" from="28800" to="288000"/>
+      <change idref="t582" attribute="internalPrerequisitesString" type="string" to="581FS"/>
+      <change idref="t582" attribute="resourceLeveledDate" type="date" to="2014-06-23T15:00:00.000Z"/>
+      <change idref="t582" attribute="styleDict" type="dict" to="{
+    &quot;font-fill&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+}"/>
+      <change idref="t582" attribute="title" type="string" to="Fabrication"/>
+    </change>
+    <change idref="t583" to="t504" to-position="3" resolved="yes">
+      <change idref="t583" attribute="effort" type="real" from="28800" to="144000"/>
+      <change idref="t583" attribute="internalPrerequisitesString" type="string" to="582FS"/>
+      <change idref="t583" attribute="resourceLeveledDate" type="date" to="2014-07-07T15:00:00.000Z"/>
+      <change idref="t583" attribute="styleDict" type="dict" to="{
+    &quot;font-fill&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+}"/>
+      <change idref="t583" attribute="title" type="string" to="Assembly"/>
+    </change>
+    <change idref="t584" to="t504" to-position="4" resolved="yes">
+      <change idref="t584" attribute="effort" type="real" from="28800" to="144000"/>
+      <change idref="t584" attribute="internalPrerequisitesString" type="string" to="583FS"/>
+      <change idref="t584" attribute="resourceLeveledDate" type="date" to="2014-07-14T15:00:00.000Z"/>
+      <change idref="t584" attribute="styleDict" type="dict" to="{
+    &quot;font-fill&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+}"/>
+      <change idref="t584" attribute="title" type="string" to="Testing"/>
+    </change>
+    <change idref="t523" to="t520" to-position="0" resolved="yes">
+      <change idref="t523" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t523" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t523" attribute="title" type="string" to="Design"/>
+    </change>
+    <change idref="t524" to="t520" to-position="1" resolved="yes">
+      <change idref="t524" attribute="internalPrerequisitesString" type="string" to="506FS, 523FS"/>
+      <change idref="t524" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t524" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t524" attribute="title" type="string" to="Procurement"/>
+    </change>
+    <change idref="t525" to="t520" to-position="2" resolved="yes">
+      <change idref="t525" attribute="effort" type="real" from="28800" to="288000"/>
+      <change idref="t525" attribute="internalPrerequisitesString" type="string" to="524FS"/>
+      <change idref="t525" attribute="resourceLeveledDate" type="date" to="2013-10-29T15:00:00.000Z"/>
+      <change idref="t525" attribute="title" type="string" to="Fabrication"/>
+    </change>
+    <change idref="t526" to="t520" to-position="3" resolved="yes">
+      <change idref="t526" attribute="effort" type="real" from="28800" to="576000"/>
+      <change idref="t526" attribute="internalPrerequisitesString" type="string" to="525FS"/>
+      <change idref="t526" attribute="resourceLeveledDate" type="date" to="2013-11-12T16:00:00.000Z"/>
+      <change idref="t526" attribute="title" type="string" to="Assembly"/>
+    </change>
+    <change idref="t527" to="t520" to-position="4" resolved="yes">
+      <change idref="t527" attribute="effort" type="real" from="28800" to="144000"/>
+      <change idref="t527" attribute="internalPrerequisitesString" type="string" to="526FS"/>
+      <change idref="t527" attribute="resourceLeveledDate" type="date" to="2013-12-10T16:00:00.000Z"/>
+      <change idref="t527" attribute="title" type="string" to="Testing"/>
+    </change>
+    <change idref="t528" to="t521" to-position="0" resolved="yes">
+      <change idref="t528" attribute="effort" type="real" from="28800" to="576000"/>
+      <change idref="t528" attribute="resourceLeveledDate" type="date" to="2013-01-07T16:00:00.000Z"/>
+      <change idref="t528" attribute="title" type="string" to="Procurement"/>
+    </change>
+    <change idref="t529" to="t521" to-position="1" resolved="yes">
+      <change idref="t529" attribute="effort" type="real" from="28800" to="288000"/>
+      <change idref="t529" attribute="internalPrerequisitesString" type="string" to="528FS"/>
+      <change idref="t529" attribute="resourceLeveledDate" type="date" to="2013-02-04T16:00:00.000Z"/>
+      <change idref="t529" attribute="title" type="string" to="Testing"/>
+    </change>
+    <change idref="t530" to="t522" to-position="0" resolved="yes">
+      <change idref="t530" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t530" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t530" attribute="title" type="string" to="Design"/>
+    </change>
+    <change idref="t531" to="t522" to-position="1" resolved="yes">
+      <change idref="t531" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t531" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t531" attribute="title" type="string" to="Procurement"/>
+    </change>
+    <change idref="t532" to="t522" to-position="2" resolved="yes">
+      <change idref="t532" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t532" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t532" attribute="title" type="string" to="Fabrication"/>
+    </change>
+    <change idref="t533" to="t522" to-position="3" resolved="yes">
+      <change idref="t533" attribute="internalPrerequisitesString" type="string" to="506FS"/>
+      <change idref="t533" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t533" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t533" attribute="title" type="string" to="Assembly"/>
+    </change>
+    <change idref="t534" to="t522" to-position="4" resolved="yes">
+      <change idref="t534" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t534" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t534" attribute="title" type="string" to="Testing"/>
+    </change>
+    <change idref="t535" to="t522" to-position="5" resolved="yes">
+      <change idref="t535" attribute="effort" type="real" from="28800" to="0"/>
+      <change idref="t535" attribute="internalPrerequisitesString" type="string" to="534FS"/>
+      <change idref="t535" attribute="isSplittableTask" type="real" from="1" to="0"/>
+      <change idref="t535" attribute="percentCompleteForMilestone" type="real" to="0"/>
+      <change idref="t535" attribute="resourceLeveledDate" type="date" to="2013-10-29T00:00:00.000Z"/>
+      <change idref="t535" attribute="taskType" type="real" from="0" to="1"/>
+      <change idref="t535" attribute="title" type="string" to="Layers 4-6 Half Modules Complete"/>
+    </change>
+    <change idref="t588" to="t523" to-position="0" resolved="yes">
+      <change idref="t588" attribute="effort" type="real" from="28800" to="576000"/>
+      <change idref="t588" attribute="resourceLeveledDate" type="date" to="2013-01-07T16:00:00.000Z"/>
+      <change idref="t588" attribute="title" type="string" to="Carbon Fiber"/>
+    </change>
+    <change idref="t589" to="t523" to-position="1" resolved="yes">
+      <change idref="t589" attribute="effort" type="real" from="28800" to="576000"/>
+      <change idref="t589" attribute="internalPrerequisitesString" type="string" to="588FF"/>
+      <change idref="t589" attribute="resourceLeveledDate" type="date" to="2013-01-07T16:00:00.000Z"/>
+      <change idref="t589" attribute="title" type="string" to="Kapton"/>
+    </change>
+    <change idref="t590" to="t524" to-position="0" resolved="yes">
+      <change idref="t590" attribute="effort" type="real" from="28800" to="576000"/>
+      <change idref="t590" attribute="resourceLeveledDate" type="date" to="2013-10-01T15:00:00.000Z"/>
+      <change idref="t590" attribute="title" type="string" to="Carbon fiber"/>
+    </change>
+    <change idref="t591" to="t524" to-position="1" resolved="yes">
+      <change idref="t591" attribute="effort" type="real" from="28800" to="576000"/>
+      <change idref="t591" attribute="internalPrerequisitesString" type="string" to="590FF"/>
+      <change idref="t591" attribute="resourceLeveledDate" type="date" to="2013-10-01T15:00:00.000Z"/>
+      <change idref="t591" attribute="title" type="string" to="Kapton"/>
+    </change>
+    <change idref="t605" to="t530" to-position="0" resolved="yes">
+      <change idref="t605" attribute="effort" type="real" from="28800" to="1152000"/>
+      <change idref="t605" attribute="internalPrerequisitesString" type="string" to="589FF"/>
+      <change idref="t605" attribute="resourceLeveledDate" type="date" to="2013-01-07T16:00:00.000Z"/>
+      <change idref="t605" attribute="title" type="string" to="Half-module design"/>
+    </change>
+    <change idref="t606" to="t530" to-position="1" resolved="yes">
+      <change idref="t606" attribute="effort" type="real" from="28800" to="288000"/>
+      <change idref="t606" attribute="internalPrerequisitesString" type="string" to="605FS"/>
+      <change idref="t606" attribute="resourceLeveledDate" type="date" to="2013-03-04T16:00:00.000Z"/>
+      <change idref="t606" attribute="title" type="string" to="Support assembly fixture"/>
+    </change>
+    <change idref="t607" to="t530" to-position="2" resolved="yes">
+      <change idref="t607" attribute="effort" type="real" from="28800" to="576000"/>
+      <change idref="t607" attribute="internalPrerequisitesString" type="string" to="605FS"/>
+      <change idref="t607" attribute="resourceLeveledDate" type="date" to="2013-03-04T16:00:00.000Z"/>
+      <change idref="t607" attribute="title" type="string" to="Half-module assembly fixture"/>
+    </change>
+    <change idref="t608" to="t530" to-position="3" resolved="yes">
+      <change idref="t608" attribute="effort" type="real" from="28800" to="576000"/>
+      <change idref="t608" attribute="internalPrerequisitesString" type="string" to="605FS"/>
+      <change idref="t608" attribute="resourceLeveledDate" type="date" to="2013-03-04T16:00:00.000Z"/>
+      <change idref="t608" attribute="title" type="string" to="Wirebonding fixture"/>
+    </change>
+    <change idref="t609" to="t531" to-position="0" resolved="yes">
+      <change idref="t609" attribute="effort" type="real" from="28800" to="576000"/>
+      <change idref="t609" attribute="internalPrerequisitesString" type="string" to="606FS"/>
+      <change idref="t609" attribute="resourceLeveledDate" type="date" to="2013-03-18T15:00:00.000Z"/>
+      <change idref="t609" attribute="title" type="string" to="Support assembly fixture"/>
+    </change>
+    <change idref="t610" to="t531" to-position="1" resolved="yes">
+      <change idref="t610" attribute="effort" type="real" from="28800" to="576000"/>
+      <change idref="t610" attribute="internalPrerequisitesString" type="string" to="607FS"/>
+      <change idref="t610" attribute="resourceLeveledDate" type="date" to="2013-04-01T15:00:00.000Z"/>
+      <change idref="t610" attribute="title" type="string" to="Half-module assembly fixture"/>
+    </change>
+    <change idref="t611" to="t531" to-position="2" resolved="yes">
+      <change idref="t611" attribute="effort" type="real" from="28800" to="576000"/>
+      <change idref="t611" attribute="internalPrerequisitesString" type="string" to="608FS"/>
+      <change idref="t611" attribute="resourceLeveledDate" type="date" to="2013-04-01T15:00:00.000Z"/>
+      <change idref="t611" attribute="title" type="string" to="Wirebonding fixture"/>
+    </change>
+    <change idref="t612" to="t532" to-position="0" resolved="yes">
+      <change idref="t612" attribute="effort" type="real" from="28800" to="288000"/>
+      <change idref="t612" attribute="internalPrerequisitesString" type="string" to="531FS"/>
+      <change idref="t612" attribute="resourceLeveledDate" type="date" to="2013-04-29T15:00:00.000Z"/>
+      <change idref="t612" attribute="title" type="string" to="Small parts"/>
+    </change>
+    <change idref="t613" to="t533" to-position="0" resolved="yes">
+      <change idref="t613" attribute="effort" type="real" from="28800" to="576000"/>
+      <change idref="t613" attribute="internalPrerequisitesString" type="string" to="532FS"/>
+      <change idref="t613" attribute="resourceLeveledDate" type="date" to="2013-10-01T15:00:00.000Z"/>
+      <change idref="t613" attribute="title" type="string" to="half-module assembly"/>
+    </change>
+    <change idref="t614" to="t533" to-position="1" resolved="yes">
+      <change idref="t614" attribute="effort" type="real" from="28800" to="576000"/>
+      <change idref="t614" attribute="internalPrerequisitesString" type="string" to="613SS"/>
+      <change idref="t614" attribute="resourceLeveledDate" type="date" to="2013-10-01T15:00:00.000Z"/>
+      <change idref="t614" attribute="title" type="string" to="wirebonding"/>
+    </change>
+    <change idref="t615" to="t534" to-position="0" resolved="yes">
+      <change idref="t615" attribute="effort" type="real" from="28800" to="576000"/>
+      <change idref="t615" attribute="internalPrerequisitesString" type="string" to="614SS"/>
+      <change idref="t615" attribute="resourceLeveledDate" type="date" to="2013-10-01T15:00:00.000Z"/>
+      <change idref="t615" attribute="title" type="string" to="DAQ testing"/>
+    </change>
+    <change idref="t597" to="t539" to-position="0" resolved="yes">
+      <change idref="t597" attribute="effort" type="real" from="28800" to="576000"/>
+      <change idref="t597" attribute="internalPrerequisitesString" type="string" to="545FF"/>
+      <change idref="t597" attribute="resourceLeveledDate" type="date" to="2014-03-24T15:00:00.000Z"/>
+      <change idref="t597" attribute="styleDict" type="dict" to="{
+    &quot;font-fill&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+    &quot;gantt-fill-color&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+}"/>
+      <change idref="t597" attribute="title" type="string" to="Module"/>
+    </change>
+    <change idref="t598" to="t539" to-position="1" resolved="yes">
+      <change idref="t598" attribute="effort" type="real" from="28800" to="288000"/>
+      <change idref="t598" attribute="internalPrerequisitesString" type="string" to="545FS"/>
+      <change idref="t598" attribute="resourceLeveledDate" type="date" to="2014-04-21T15:00:00.000Z"/>
+      <change idref="t598" attribute="styleDict" type="dict" to="{
+    &quot;font-fill&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+    &quot;gantt-fill-color&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+}"/>
+      <change idref="t598" attribute="title" type="string" to="Assembly fixture"/>
+    </change>
+    <change idref="t599" to="t540" to-position="0" resolved="yes">
+      <change idref="t599" attribute="effort" type="real" from="28800" to="144000"/>
+      <change idref="t599" attribute="internalPrerequisitesString" type="string" to="598FS"/>
+      <change idref="t599" attribute="resourceLeveledDate" type="date" to="2014-05-05T15:00:00.000Z"/>
+      <change idref="t599" attribute="styleDict" type="dict" to="{
+    &quot;font-fill&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+    &quot;gantt-fill-color&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+}"/>
+      <change idref="t599" attribute="title" type="string" to="Module assembly fixture"/>
+    </change>
+    <change idref="t600" to="t541" to-position="0" resolved="yes">
+      <change idref="t600" attribute="effort" type="real" from="28800" to="288000"/>
+      <change idref="t600" attribute="internalPrerequisitesString" type="string" to="599FS"/>
+      <change idref="t600" attribute="resourceLeveledDate" type="date" to="2014-05-12T15:00:00.000Z"/>
+      <change idref="t600" attribute="styleDict" type="dict" to="{
+    &quot;font-fill&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+    &quot;gantt-fill-color&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+}"/>
+      <change idref="t600" attribute="title" type="string" to="Module assembly fixture"/>
+    </change>
+    <change idref="t601" to="t542" to-position="0" resolved="yes">
+      <change idref="t601" attribute="effort" type="real" from="28800" to="144000"/>
+      <change idref="t601" attribute="resourceLeveledDate" type="date" to="2014-05-19T15:00:00.000Z"/>
+      <change idref="t601" attribute="title" type="string" to="Half module preparation"/>
+    </change>
+    <change idref="t602" to="t542" to-position="1" resolved="yes">
+      <change idref="t602" attribute="effort" type="real" from="28800" to="288000"/>
+      <change idref="t602" attribute="internalPrerequisitesString" type="string" to="601FS"/>
+      <change idref="t602" attribute="resourceLeveledDate" type="date" to="2014-05-26T15:00:00.000Z"/>
+      <change idref="t602" attribute="title" type="string" to="Module assembly"/>
+    </change>
+    <change idref="t603" to="t543" to-position="0" resolved="yes">
+      <change idref="t603" attribute="effort" type="real" from="28800" to="288000"/>
+      <change idref="t603" attribute="internalPrerequisitesString" type="string" to="602FS"/>
+      <change idref="t603" attribute="resourceLeveledDate" type="date" to="2014-06-09T15:00:00.000Z"/>
+      <change idref="t603" attribute="title" type="string" to="DAQ testing"/>
+    </change>
+    <change idref="t604" to="t543" to-position="1" resolved="yes">
+      <change idref="t604" attribute="effort" type="real" from="28800" to="288000"/>
+      <change idref="t604" attribute="internalPrerequisitesString" type="string" to="603FF"/>
+      <change idref="t604" attribute="resourceLeveledDate" type="date" to="2014-06-09T15:00:00.000Z"/>
+      <change idref="t604" attribute="title" type="string" to="Survey"/>
+    </change>
+    <change idref="t616" to="t554" to-position="0" resolved="yes">
+      <change idref="t616" attribute="effort" type="real" from="28800" to="576000"/>
+      <change idref="t616" attribute="internalPrerequisitesString" type="string" to="549FF, 605FF"/>
+      <change idref="t616" attribute="resourceLeveledDate" type="date" to="2014-03-31T15:00:00.000Z"/>
+      <change idref="t616" attribute="styleDict" type="dict" to="{
+    &quot;font-fill&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+    &quot;gantt-fill-color&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+}"/>
+      <change idref="t616" attribute="title" type="string" to="Module"/>
+    </change>
+    <change idref="t617" to="t554" to-position="1" resolved="yes">
+      <change idref="t617" attribute="effort" type="real" from="28800" to="288000"/>
+      <change idref="t617" attribute="internalPrerequisitesString" type="string" to="616FS"/>
+      <change idref="t617" attribute="resourceLeveledDate" type="date" to="2014-04-28T15:00:00.000Z"/>
+      <change idref="t617" attribute="styleDict" type="dict" to="{
+    &quot;font-fill&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+    &quot;gantt-fill-color&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+}"/>
+      <change idref="t617" attribute="title" type="string" to="Module assembly fixture"/>
+    </change>
+    <change idref="t618" to="t555" to-position="0" resolved="yes">
+      <change idref="t618" attribute="effort" type="real" from="28800" to="144000"/>
+      <change idref="t618" attribute="internalPrerequisitesString" type="string" to="617FS"/>
+      <change idref="t618" attribute="resourceLeveledDate" type="date" to="2014-05-12T15:00:00.000Z"/>
+      <change idref="t618" attribute="styleDict" type="dict" to="{
+    &quot;font-fill&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+    &quot;gantt-fill-color&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+}"/>
+      <change idref="t618" attribute="title" type="string" to="Module assembly fixture"/>
+    </change>
+    <change idref="t619" to="t556" to-position="0" resolved="yes">
+      <change idref="t619" attribute="effort" type="real" from="28800" to="288000"/>
+      <change idref="t619" attribute="internalPrerequisitesString" type="string" to="618FS"/>
+      <change idref="t619" attribute="resourceLeveledDate" type="date" to="2014-05-19T15:00:00.000Z"/>
+      <change idref="t619" attribute="styleDict" type="dict" to="{
+    &quot;font-fill&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+    &quot;gantt-fill-color&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+}"/>
+      <change idref="t619" attribute="title" type="string" to="Module assembly fixture"/>
+    </change>
+    <change idref="t620" to="t557" to-position="0" resolved="yes">
+      <change idref="t620" attribute="effort" type="real" from="28800" to="144000"/>
+      <change idref="t620" attribute="internalPrerequisitesString" type="string" to="535FS, 619FS"/>
+      <change idref="t620" attribute="resourceLeveledDate" type="date" to="2014-06-02T15:00:00.000Z"/>
+      <change idref="t620" attribute="title" type="string" to="Modules"/>
+    </change>
+    <change idref="t621" to="t558" to-position="0" resolved="yes">
+      <change idref="t621" attribute="effort" type="real" from="28800" to="288000"/>
+      <change idref="t621" attribute="resourceLeveledDate" type="date" to="2014-06-02T15:00:00.000Z"/>
+      <change idref="t621" attribute="title" type="string" to="DAQ testing"/>
+    </change>
+    <change idref="t596" to="t558" to-position="1" resolved="yes">
+      <change idref="t596" attribute="effort" type="real" from="28800" to="288000"/>
+      <change idref="t596" attribute="internalPrerequisitesString" type="string" to="621FS"/>
+      <change idref="t596" attribute="resourceLeveledDate" type="date" to="2014-06-16T15:00:00.000Z"/>
+      <change idref="t596" attribute="title" type="string" to="Survey"/>
+    </change>
+    <change idref="t567" to="t562" to-position="0" resolved="yes">
+      <change idref="t567" attribute="effort" type="real" from="28800" to="288000"/>
+      <change idref="t567" attribute="internalPrerequisitesString" type="string" to="536FS, 559FS"/>
+      <change idref="t567" attribute="resourceLeveledDate" type="date" to="2014-05-12T15:00:00.000Z"/>
+      <change idref="t567" attribute="styleDict" type="dict" to="{
+    &quot;font-fill&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+    &quot;gantt-fill-color&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+}"/>
+      <change idref="t567" attribute="title" type="string" to="Design"/>
+    </change>
+    <change idref="t568" to="t562" to-position="1" resolved="yes">
+      <change idref="t568" attribute="effort" type="real" from="28800" to="144000"/>
+      <change idref="t568" attribute="internalPrerequisitesString" type="string" to="567FS"/>
+      <change idref="t568" attribute="resourceLeveledDate" type="date" to="2014-05-26T15:00:00.000Z"/>
+      <change idref="t568" attribute="styleDict" type="dict" to="{
+    &quot;font-fill&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+    &quot;gantt-fill-color&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+}"/>
+      <change idref="t568" attribute="title" type="string" to="Procurement"/>
+    </change>
+    <change idref="t569" to="t562" to-position="2" resolved="yes">
+      <change idref="t569" attribute="effort" type="real" from="28800" to="576000"/>
+      <change idref="t569" attribute="internalPrerequisitesString" type="string" to="568FS"/>
+      <change idref="t569" attribute="resourceLeveledDate" type="date" to="2014-06-02T15:00:00.000Z"/>
+      <change idref="t569" attribute="styleDict" type="dict" to="{
+    &quot;font-fill&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+    &quot;gantt-fill-color&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+}"/>
+      <change idref="t569" attribute="title" type="string" to="Fabrication"/>
+    </change>
+    <change idref="t570" to="t563" to-position="0" resolved="yes">
+      <change idref="t570" attribute="effort" type="real" from="28800" to="288000"/>
+      <change idref="t570" attribute="internalPrerequisitesString" type="string" to="536FS, 559FS"/>
+      <change idref="t570" attribute="resourceLeveledDate" type="date" to="2014-05-12T15:00:00.000Z"/>
+      <change idref="t570" attribute="styleDict" type="dict" to="{
+    &quot;font-fill&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+    &quot;gantt-fill-color&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+}"/>
+      <change idref="t570" attribute="title" type="string" to="Design"/>
+    </change>
+    <change idref="t571" to="t563" to-position="1" resolved="yes">
+      <change idref="t571" attribute="effort" type="real" from="28800" to="144000"/>
+      <change idref="t571" attribute="internalPrerequisitesString" type="string" to="506FS, 570FS"/>
+      <change idref="t571" attribute="resourceLeveledDate" type="date" to="2014-05-26T15:00:00.000Z"/>
+      <change idref="t571" attribute="styleDict" type="dict" to="{
+    &quot;font-fill&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+    &quot;gantt-fill-color&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+}"/>
+      <change idref="t571" attribute="title" type="string" to="Procurement"/>
+    </change>
+    <change idref="t572" to="t563" to-position="2" resolved="yes">
+      <change idref="t572" attribute="effort" type="real" from="28800" to="576000"/>
+      <change idref="t572" attribute="internalPrerequisitesString" type="string" to="571FS"/>
+      <change idref="t572" attribute="resourceLeveledDate" type="date" to="2014-06-02T15:00:00.000Z"/>
+      <change idref="t572" attribute="styleDict" type="dict" to="{
+    &quot;font-fill&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+    &quot;gantt-fill-color&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+}"/>
+      <change idref="t572" attribute="title" type="string" to="Fabrication"/>
+    </change>
+    <change idref="t573" to="t564" to-position="0" resolved="yes">
+      <change idref="t573" attribute="effort" type="real" from="28800" to="288000"/>
+      <change idref="t573" attribute="internalPrerequisitesString" type="string" to="536FS, 559FS"/>
+      <change idref="t573" attribute="resourceLeveledDate" type="date" to="2014-05-12T15:00:00.000Z"/>
+      <change idref="t573" attribute="styleDict" type="dict" to="{
+    &quot;font-fill&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+    &quot;gantt-fill-color&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+}"/>
+      <change idref="t573" attribute="title" type="string" to="Design"/>
+    </change>
+    <change idref="t574" to="t564" to-position="1" resolved="yes">
+      <change idref="t574" attribute="effort" type="real" from="28800" to="144000"/>
+      <change idref="t574" attribute="internalPrerequisitesString" type="string" to="506FS, 573FS"/>
+      <change idref="t574" attribute="resourceLeveledDate" type="date" to="2014-05-26T15:00:00.000Z"/>
+      <change idref="t574" attribute="styleDict" type="dict" to="{
+    &quot;font-fill&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+    &quot;gantt-fill-color&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+}"/>
+      <change idref="t574" attribute="title" type="string" to="Procurement"/>
+    </change>
+    <change idref="t575" to="t564" to-position="2" resolved="yes">
+      <change idref="t575" attribute="effort" type="real" from="28800" to="576000"/>
+      <change idref="t575" attribute="internalPrerequisitesString" type="string" to="574FS"/>
+      <change idref="t575" attribute="resourceLeveledDate" type="date" to="2014-06-02T15:00:00.000Z"/>
+      <change idref="t575" attribute="styleDict" type="dict" to="{
+    &quot;font-fill&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+    &quot;gantt-fill-color&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+}"/>
+      <change idref="t575" attribute="title" type="string" to="Fabrication"/>
+    </change>
+    <change idref="t472" to="t471" to-position="0" resolved="yes">
+      <change idref="t472" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t472" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t472" attribute="title" type="string" to="Milestones"/>
+    </change>
+    <change idref="t473" to="t471" to-position="1" resolved="yes">
+      <change idref="t473" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t473" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t473" attribute="title" type="string" to="Layers 1-3"/>
+    </change>
+    <change idref="t474" to="t471" to-position="2" resolved="yes">
+      <change idref="t474" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t474" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t474" attribute="title" type="string" to="Layers 4-6"/>
+    </change>
+    <change idref="t475" to="t471" to-position="3" resolved="yes">
+      <change idref="t475" attribute="internalPrerequisitesString" type="string" to="506FS"/>
+      <change idref="t475" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t475" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t475" attribute="title" type="string" to="Tracker support structures"/>
+    </change>
+    <change idref="t476" to="t471" to-position="4" resolved="yes">
+      <change idref="t476" attribute="internalPrerequisitesString" type="string" to="506FS"/>
+      <change idref="t476" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t476" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t476" attribute="title" type="string" to="Services"/>
+    </change>
+    <change idref="t477" to="t471" to-position="5" resolved="yes">
+      <change idref="t477" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t477" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t477" attribute="title" type="string" to="Integration at SLAC"/>
+    </change>
+    <change idref="t478" to="t471" to-position="6" resolved="yes">
+      <change idref="t478" attribute="internalPrerequisitesString" type="string" to="509FS"/>
+      <change idref="t478" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t478" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t478" attribute="title" type="string" to="Integration at JLab"/>
+    </change>
+    <change idref="t595" to="t472" to-position="0" resolved="yes">
+      <change idref="t595" attribute="effort" type="real" from="28800" to="0"/>
+      <change idref="t595" attribute="isSplittableTask" type="real" from="1" to="0"/>
+      <change idref="t595" attribute="noEarlierThanConstraintDate" type="date" to="2013-02-01T16:00:00.000Z"/>
+      <change idref="t595" attribute="percentCompleteForMilestone" type="real" to="0"/>
+      <change idref="t595" attribute="resourceLeveledDate" type="date" to="2013-02-01T16:00:00.000Z"/>
+      <change idref="t595" attribute="taskType" type="real" from="0" to="1"/>
+      <change idref="t595" attribute="title" type="string" to="SVT returns from JLab"/>
+    </change>
+    <change idref="t506" to="t472" to-position="1" resolved="yes">
+      <change idref="t506" attribute="effort" type="real" from="28800" to="0"/>
+      <change idref="t506" attribute="isSplittableTask" type="real" from="1" to="0"/>
+      <change idref="t506" attribute="noEarlierThanConstraintDate" type="date" to="2013-10-01T15:00:00.000Z"/>
+      <change idref="t506" attribute="percentCompleteForMilestone" type="real" to="0"/>
+      <change idref="t506" attribute="resourceLeveledDate" type="date" to="2013-10-01T15:00:00.000Z"/>
+      <change idref="t506" attribute="taskType" type="real" from="0" to="1"/>
+      <change idref="t506" attribute="title" type="string" to="Project funded"/>
+    </change>
+    <change idref="t479" to="t473" to-position="0" resolved="yes">
+      <change idref="t479" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t479" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t479" attribute="title" type="string" to="Modules"/>
+    </change>
+    <change idref="t480" to="t473" to-position="1" resolved="yes">
+      <change idref="t480" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t480" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t480" attribute="title" type="string" to="Support channels"/>
+    </change>
+    <change idref="t481" to="t474" to-position="0" resolved="yes">
+      <change idref="t481" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t481" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t481" attribute="title" type="string" to="Modules"/>
+    </change>
+    <change idref="t482" to="t474" to-position="1" resolved="yes">
+      <change idref="t482" attribute="internalPrerequisitesString" type="string" to="480SS"/>
+      <change idref="t482" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t482" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t482" attribute="title" type="string" to="Support channels"/>
+    </change>
+    <change idref="t562" to="t475" to-position="0" resolved="yes">
+      <change idref="t562" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t562" attribute="styleDict" type="dict" to="{
+    &quot;font-fill&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+}"/>
+      <change idref="t562" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t562" attribute="title" type="string" to="Support Box"/>
+    </change>
+    <change idref="t563" to="t475" to-position="1" resolved="yes">
+      <change idref="t563" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t563" attribute="styleDict" type="dict" to="{
+    &quot;font-fill&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+}"/>
+      <change idref="t563" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t563" attribute="title" type="string" to="Support ring"/>
+    </change>
+    <change idref="t564" to="t475" to-position="2" resolved="yes">
+      <change idref="t564" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t564" attribute="styleDict" type="dict" to="{
+    &quot;font-fill&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+}"/>
+      <change idref="t564" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t564" attribute="title" type="string" to="DAQ Support/Cooling"/>
+    </change>
+    <change idref="t565" to="t475" to-position="3" resolved="yes">
+      <change idref="t565" attribute="effort" type="real" from="28800" to="288000"/>
+      <change idref="t565" attribute="internalPrerequisitesString" type="string" to="569FS, 572FS, 575FS"/>
+      <change idref="t565" attribute="resourceLeveledDate" type="date" to="2014-06-30T15:00:00.000Z"/>
+      <change idref="t565" attribute="title" type="string" to="Assembly"/>
+    </change>
+    <change idref="t566" to="t475" to-position="4" resolved="yes">
+      <change idref="t566" attribute="effort" type="real" from="28800" to="288000"/>
+      <change idref="t566" attribute="internalPrerequisitesString" type="string" to="565FS"/>
+      <change idref="t566" attribute="resourceLeveledDate" type="date" to="2014-07-14T15:00:00.000Z"/>
+      <change idref="t566" attribute="title" type="string" to="Testing"/>
+    </change>
+    <change idref="t511" to="t475" to-position="5" resolved="yes">
+      <change idref="t511" attribute="effort" type="real" from="28800" to="0"/>
+      <change idref="t511" attribute="internalPrerequisitesString" type="string" to="566FS"/>
+      <change idref="t511" attribute="isSplittableTask" type="real" from="1" to="0"/>
+      <change idref="t511" attribute="percentCompleteForMilestone" type="real" to="0"/>
+      <change idref="t511" attribute="resourceLeveledDate" type="date" to="2014-07-26T00:00:00.000Z"/>
+      <change idref="t511" attribute="taskType" type="real" from="0" to="1"/>
+      <change idref="t511" attribute="title" type="string" to="Tracker Support Complete"/>
+    </change>
+    <change idref="t503" to="t476" to-position="0" resolved="yes">
+      <change idref="t503" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t503" attribute="styleDict" type="dict" to="{
+    &quot;font-fill&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+}"/>
+      <change idref="t503" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t503" attribute="title" type="string" to="Vacuum Flanges/Boards/cables"/>
+    </change>
+    <change idref="t504" to="t476" to-position="1" resolved="yes">
+      <change idref="t504" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t504" attribute="styleDict" type="dict" to="{
+    &quot;font-fill&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+}"/>
+      <change idref="t504" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t504" attribute="title" type="string" to="Shipping"/>
+    </change>
+    <change idref="t505" to="t476" to-position="2" resolved="yes">
+      <change idref="t505" attribute="effort" type="real" from="28800" to="0"/>
+      <change idref="t505" attribute="internalPrerequisitesString" type="string" to="510FS, 584FS"/>
+      <change idref="t505" attribute="isSplittableTask" type="real" from="1" to="0"/>
+      <change idref="t505" attribute="percentCompleteForMilestone" type="real" to="0"/>
+      <change idref="t505" attribute="resourceLeveledDate" type="date" to="2014-07-19T00:00:00.000Z"/>
+      <change idref="t505" attribute="taskType" type="real" from="0" to="1"/>
+      <change idref="t505" attribute="title" type="string" to="Services complete"/>
+    </change>
+    <change idref="t507" to="t477" to-position="0" resolved="yes">
+      <change idref="t507" attribute="effort" type="real" from="28800" to="288000"/>
+      <change idref="t507" attribute="internalPrerequisitesString" type="string" to="496FS, 502FS, 510FS, 511FS"/>
+      <change idref="t507" attribute="resourceLeveledDate" type="date" to="2014-07-28T15:00:00.000Z"/>
+      <change idref="t507" attribute="title" type="string" to="Assembly"/>
+    </change>
+    <change idref="t508" to="t477" to-position="1" resolved="yes">
+      <change idref="t508" attribute="effort" type="real" from="28800" to="576000"/>
+      <change idref="t508" attribute="internalPrerequisitesString" type="string" to="507FS"/>
+      <change idref="t508" attribute="resourceLeveledDate" type="date" to="2014-08-11T15:00:00.000Z"/>
+      <change idref="t508" attribute="title" type="string" to="Testing"/>
+    </change>
+    <change idref="t509" to="t477" to-position="2" resolved="yes">
+      <change idref="t509" attribute="effort" type="real" from="28800" to="0"/>
+      <change idref="t509" attribute="internalPrerequisitesString" type="string" to="421FS, 505FS, 508FS"/>
+      <change idref="t509" attribute="isSplittableTask" type="real" from="1" to="0"/>
+      <change idref="t509" attribute="percentCompleteForMilestone" type="real" to="0"/>
+      <change idref="t509" attribute="resourceLeveledDate" type="date" to="2014-09-06T00:00:00.000Z"/>
+      <change idref="t509" attribute="taskType" type="real" from="0" to="1"/>
+      <change idref="t509" attribute="title" type="string" to="SVT ready to ship"/>
+    </change>
+    <change idref="t576" to="t478" to-position="0" resolved="yes">
+      <change idref="t576" attribute="effort" type="real" from="28800" to="288000"/>
+      <change idref="t576" attribute="resourceLeveledDate" type="date" to="2014-09-08T15:00:00.000Z"/>
+      <change idref="t576" attribute="title" type="string" to="Assembly"/>
+    </change>
+    <change idref="t577" to="t478" to-position="1" resolved="yes">
+      <change idref="t577" attribute="effort" type="real" from="28800" to="576000"/>
+      <change idref="t577" attribute="internalPrerequisitesString" type="string" to="576FS"/>
+      <change idref="t577" attribute="resourceLeveledDate" type="date" to="2014-09-22T15:00:00.000Z"/>
+      <change idref="t577" attribute="title" type="string" to="Testing"/>
+    </change>
+    <change idref="t578" to="t478" to-position="2" resolved="yes">
+      <change idref="t578" attribute="effort" type="real" from="28800" to="144000"/>
+      <change idref="t578" attribute="internalPrerequisitesString" type="string" to="577FS"/>
+      <change idref="t578" attribute="resourceLeveledDate" type="date" to="2014-10-20T15:00:00.000Z"/>
+      <change idref="t578" attribute="title" type="string" to="Installation"/>
+    </change>
+    <change idref="t579" to="t478" to-position="3" resolved="yes">
+      <change idref="t579" attribute="effort" type="real" from="28800" to="0"/>
+      <change idref="t579" attribute="internalPrerequisitesString" type="string" to="578FS"/>
+      <change idref="t579" attribute="isSplittableTask" type="real" from="1" to="0"/>
+      <change idref="t579" attribute="percentCompleteForMilestone" type="real" to="0"/>
+      <change idref="t579" attribute="resourceLeveledDate" type="date" to="2014-10-25T00:00:00.000Z"/>
+      <change idref="t579" attribute="taskType" type="real" from="0" to="1"/>
+      <change idref="t579" attribute="title" type="string" to="SVT project complete"/>
+    </change>
+    <change idref="t483" to="t479" to-position="0" resolved="yes">
+      <change idref="t483" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t483" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t483" attribute="title" type="string" to="Half modules"/>
+    </change>
+    <change idref="t484" to="t479" to-position="1" resolved="yes">
+      <change idref="t484" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t484" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t484" attribute="title" type="string" to="Module supports"/>
+    </change>
+    <change idref="t485" to="t479" to-position="2" resolved="yes">
+      <change idref="t485" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t485" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t485" attribute="title" type="string" to="Integration"/>
+    </change>
+    <change idref="t486" to="t479" to-position="3" resolved="yes">
+      <change idref="t486" attribute="effort" type="real" from="28800" to="0"/>
+      <change idref="t486" attribute="internalPrerequisitesString" type="string" to="543FS"/>
+      <change idref="t486" attribute="isSplittableTask" type="real" from="1" to="0"/>
+      <change idref="t486" attribute="percentCompleteForMilestone" type="real" to="0"/>
+      <change idref="t486" attribute="resourceLeveledDate" type="date" to="2014-06-21T00:00:00.000Z"/>
+      <change idref="t486" attribute="taskType" type="real" from="0" to="1"/>
+      <change idref="t486" attribute="title" type="string" to="Layers 1-3 modules complete"/>
+    </change>
+    <change idref="t497" to="t480" to-position="0" resolved="yes">
+      <change idref="t497" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t497" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t497" attribute="title" type="string" to="Design"/>
+    </change>
+    <change idref="t498" to="t480" to-position="1" resolved="yes">
+      <change idref="t498" attribute="internalPrerequisitesString" type="string" to="497FS, 506FS"/>
+      <change idref="t498" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t498" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t498" attribute="title" type="string" to="Procurement"/>
+    </change>
+    <change idref="t499" to="t480" to-position="2" resolved="yes">
+      <change idref="t499" attribute="internalPrerequisitesString" type="string" to="498FS"/>
+      <change idref="t499" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t499" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t499" attribute="title" type="string" to="Fabrication"/>
+    </change>
+    <change idref="t500" to="t480" to-position="3" resolved="yes">
+      <change idref="t500" attribute="internalPrerequisitesString" type="string" to="486FS, 499FS"/>
+      <change idref="t500" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t500" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t500" attribute="title" type="string" to="Assembly"/>
+    </change>
+    <change idref="t501" to="t480" to-position="4" resolved="yes">
+      <change idref="t501" attribute="internalPrerequisitesString" type="string" to="500SS"/>
+      <change idref="t501" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t501" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t501" attribute="title" type="string" to="Testing"/>
+    </change>
+    <change idref="t502" to="t480" to-position="5" resolved="yes">
+      <change idref="t502" attribute="effort" type="real" from="28800" to="0"/>
+      <change idref="t502" attribute="internalPrerequisitesString" type="string" to="501FS"/>
+      <change idref="t502" attribute="isSplittableTask" type="real" from="1" to="0"/>
+      <change idref="t502" attribute="percentCompleteForMilestone" type="real" to="0"/>
+      <change idref="t502" attribute="resourceLeveledDate" type="date" to="2014-07-19T00:00:00.000Z"/>
+      <change idref="t502" attribute="taskType" type="real" from="0" to="1"/>
+      <change idref="t502" attribute="title" type="string" to="Layers 1-3 complete"/>
+    </change>
+    <change idref="t487" to="t481" to-position="0" resolved="yes">
+      <change idref="t487" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t487" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t487" attribute="title" type="string" to="Half Modules"/>
+    </change>
+    <change idref="t488" to="t481" to-position="1" resolved="yes">
+      <change idref="t488" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t488" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t488" attribute="title" type="string" to="Module supports"/>
+    </change>
+    <change idref="t489" to="t481" to-position="2" resolved="yes">
+      <change idref="t489" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t489" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t489" attribute="title" type="string" to="Integration"/>
+    </change>
+    <change idref="t490" to="t481" to-position="3" resolved="yes">
+      <change idref="t490" attribute="effort" type="real" from="28800" to="0"/>
+      <change idref="t490" attribute="internalPrerequisitesString" type="string" to="596FS"/>
+      <change idref="t490" attribute="isSplittableTask" type="real" from="1" to="0"/>
+      <change idref="t490" attribute="percentCompleteForMilestone" type="real" to="0"/>
+      <change idref="t490" attribute="resourceLeveledDate" type="date" to="2014-06-28T00:00:00.000Z"/>
+      <change idref="t490" attribute="taskType" type="real" from="0" to="1"/>
+      <change idref="t490" attribute="title" type="string" to="Layers 4-6 Modules Complete"/>
+    </change>
+    <change idref="t491" to="t482" to-position="0" resolved="yes">
+      <change idref="t491" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t491" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t491" attribute="title" type="string" to="Design"/>
+    </change>
+    <change idref="t492" to="t482" to-position="1" resolved="yes">
+      <change idref="t492" attribute="internalPrerequisitesString" type="string" to="491FS, 506FS"/>
+      <change idref="t492" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t492" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t492" attribute="title" type="string" to="Procurement"/>
+    </change>
+    <change idref="t493" to="t482" to-position="2" resolved="yes">
+      <change idref="t493" attribute="internalPrerequisitesString" type="string" to="492FS"/>
+      <change idref="t493" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t493" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t493" attribute="title" type="string" to="Fabrication"/>
+    </change>
+    <change idref="t494" to="t482" to-position="3" resolved="yes">
+      <change idref="t494" attribute="internalPrerequisitesString" type="string" to="493FS"/>
+      <change idref="t494" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t494" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t494" attribute="title" type="string" to="Assembly"/>
+    </change>
+    <change idref="t495" to="t482" to-position="4" resolved="yes">
+      <change idref="t495" attribute="internalPrerequisitesString" type="string" to="494FS"/>
+      <change idref="t495" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t495" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t495" attribute="title" type="string" to="Testing"/>
+    </change>
+    <change idref="t496" to="t482" to-position="5" resolved="yes">
+      <change idref="t496" attribute="effort" type="real" from="28800" to="0"/>
+      <change idref="t496" attribute="internalPrerequisitesString" type="string" to="495FS"/>
+      <change idref="t496" attribute="isSplittableTask" type="real" from="1" to="0"/>
+      <change idref="t496" attribute="percentCompleteForMilestone" type="real" to="0"/>
+      <change idref="t496" attribute="resourceLeveledDate" type="date" to="2014-07-26T00:00:00.000Z"/>
+      <change idref="t496" attribute="taskType" type="real" from="0" to="1"/>
+      <change idref="t496" attribute="title" type="string" to="Layers 4-6 complete"/>
+    </change>
+    <change idref="t516" to="t483" to-position="0" resolved="yes">
+      <change idref="t516" attribute="effort" type="real" from="28800" to="144000"/>
+      <change idref="t516" attribute="internalPrerequisitesString" type="string" to="595FS"/>
+      <change idref="t516" attribute="resourceLeveledDate" type="date" to="2013-02-01T16:00:00.000Z"/>
+      <change idref="t516" attribute="title" type="string" to="Disassembly"/>
+    </change>
+    <change idref="t517" to="t483" to-position="1" resolved="yes">
+      <change idref="t517" attribute="effort" type="real" from="28800" to="1728000"/>
+      <change idref="t517" attribute="internalPrerequisitesString" type="string" to="516FS"/>
+      <change idref="t517" attribute="resourceLeveledDate" type="date" to="2013-02-08T16:00:00.000Z"/>
+      <change idref="t517" attribute="title" type="string" to="Testing"/>
+    </change>
+    <change idref="t518" to="t483" to-position="2" resolved="yes">
+      <change idref="t518" attribute="effort" type="real" from="28800" to="288000"/>
+      <change idref="t518" attribute="internalPrerequisitesString" type="string" to="517FS"/>
+      <change idref="t518" attribute="noEarlierThanConstraintDate" type="date" to="2014-04-15T15:00:00.000Z"/>
+      <change idref="t518" attribute="resourceLeveledDate" type="date" to="2014-04-15T15:00:00.000Z"/>
+      <change idref="t518" attribute="title" type="string" to="QA and selection"/>
+    </change>
+    <change idref="t519" to="t483" to-position="3" resolved="yes">
+      <change idref="t519" attribute="effort" type="real" from="28800" to="0"/>
+      <change idref="t519" attribute="internalPrerequisitesString" type="string" to="518FS"/>
+      <change idref="t519" attribute="isSplittableTask" type="real" from="1" to="0"/>
+      <change idref="t519" attribute="percentCompleteForMilestone" type="real" to="0"/>
+      <change idref="t519" attribute="resourceLeveledDate" type="date" to="2014-04-29T00:00:00.000Z"/>
+      <change idref="t519" attribute="taskType" type="real" from="0" to="1"/>
+      <change idref="t519" attribute="title" type="string" to="Layers 1-3 Half Modules Complete"/>
+    </change>
+    <change idref="t544" to="t484" to-position="0" resolved="yes">
+      <change idref="t544" attribute="effort" type="real" from="28800" to="1728000"/>
+      <change idref="t544" attribute="resourceLeveledDate" type="date" to="2013-01-07T16:00:00.000Z"/>
+      <change idref="t544" attribute="title" type="string" to="Prototyping"/>
+    </change>
+    <change idref="t545" to="t484" to-position="1" resolved="yes">
+      <change idref="t545" attribute="effort" type="real" from="28800" to="144000"/>
+      <change idref="t545" attribute="internalPrerequisitesString" type="string" to="544FS"/>
+      <change idref="t545" attribute="noEarlierThanConstraintDate" type="date" to="2014-04-14T07:00:00.000Z"/>
+      <change idref="t545" attribute="resourceLeveledDate" type="date" to="2014-04-14T15:00:00.000Z"/>
+      <change idref="t545" attribute="styleDict" type="dict" to="{
+    &quot;font-fill&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+    &quot;gantt-fill-color&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+}"/>
+      <change idref="t545" attribute="title" type="string" to="Design"/>
+    </change>
+    <change idref="t546" to="t484" to-position="2" resolved="yes">
+      <change idref="t546" attribute="effort" type="real" from="28800" to="144000"/>
+      <change idref="t546" attribute="internalPrerequisitesString" type="string" to="506FS, 545FS"/>
+      <change idref="t546" attribute="noEarlierThanConstraintDate" type="date" to="2014-04-21T07:00:00.000Z"/>
+      <change idref="t546" attribute="resourceLeveledDate" type="date" to="2014-04-21T15:00:00.000Z"/>
+      <change idref="t546" attribute="styleDict" type="dict" to="{
+    &quot;font-fill&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+    &quot;gantt-fill-color&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+}"/>
+      <change idref="t546" attribute="title" type="string" to="Procurement"/>
+    </change>
+    <change idref="t547" to="t484" to-position="3" resolved="yes">
+      <change idref="t547" attribute="effort" type="real" from="28800" to="288000"/>
+      <change idref="t547" attribute="internalPrerequisitesString" type="string" to="546FS"/>
+      <change idref="t547" attribute="resourceLeveledDate" type="date" to="2014-04-28T15:00:00.000Z"/>
+      <change idref="t547" attribute="styleDict" type="dict" to="{
+    &quot;font-fill&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+    &quot;gantt-fill-color&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+}"/>
+      <change idref="t547" attribute="title" type="string" to="Fabrication"/>
+    </change>
+    <change idref="t548" to="t484" to-position="4" resolved="yes">
+      <change idref="t548" attribute="effort" type="real" from="28800" to="144000"/>
+      <change idref="t548" attribute="internalPrerequisitesString" type="string" to="547FS"/>
+      <change idref="t548" attribute="resourceLeveledDate" type="date" to="2014-05-12T15:00:00.000Z"/>
+      <change idref="t548" attribute="styleDict" type="dict" to="{
+    &quot;font-fill&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+    &quot;gantt-fill-color&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+}"/>
+      <change idref="t548" attribute="title" type="string" to="Assembly"/>
+    </change>
+    <change idref="t539" to="t485" to-position="0" resolved="yes">
+      <change idref="t539" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t539" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t539" attribute="title" type="string" to="Design"/>
+    </change>
+    <change idref="t540" to="t485" to-position="1" resolved="yes">
+      <change idref="t540" attribute="internalPrerequisitesString" type="string" to="506FS"/>
+      <change idref="t540" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t540" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t540" attribute="title" type="string" to="Procurement"/>
+    </change>
+    <change idref="t541" to="t485" to-position="2" resolved="yes">
+      <change idref="t541" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t541" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t541" attribute="title" type="string" to="Fabrication"/>
+    </change>
+    <change idref="t542" to="t485" to-position="3" resolved="yes">
+      <change idref="t542" attribute="internalPrerequisitesString" type="string" to="484FS, 519FS"/>
+      <change idref="t542" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t542" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t542" attribute="title" type="string" to="Assembly"/>
+    </change>
+    <change idref="t543" to="t485" to-position="4" resolved="yes">
+      <change idref="t543" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t543" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t543" attribute="title" type="string" to="Testing"/>
+    </change>
+    <change idref="t520" to="t487" to-position="0" resolved="yes">
+      <change idref="t520" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t520" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t520" attribute="title" type="string" to="Supports"/>
+    </change>
+    <change idref="t521" to="t487" to-position="1" resolved="yes">
+      <change idref="t521" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t521" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t521" attribute="title" type="string" to="Sensors"/>
+    </change>
+    <change idref="t522" to="t487" to-position="2" resolved="yes">
+      <change idref="t522" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t522" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t522" attribute="title" type="string" to="Integration"/>
+    </change>
+    <change idref="t549" to="t488" to-position="0" resolved="yes">
+      <change idref="t549" attribute="effort" type="real" from="28800" to="144000"/>
+      <change idref="t549" attribute="internalPrerequisitesString" type="string" to="545FS"/>
+      <change idref="t549" attribute="resourceLeveledDate" type="date" to="2014-04-21T15:00:00.000Z"/>
+      <change idref="t549" attribute="styleDict" type="dict" to="{
+    &quot;font-fill&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+    &quot;gantt-fill-color&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+}"/>
+      <change idref="t549" attribute="title" type="string" to="Design"/>
+    </change>
+    <change idref="t550" to="t488" to-position="1" resolved="yes">
+      <change idref="t550" attribute="effort" type="real" from="28800" to="144000"/>
+      <change idref="t550" attribute="internalPrerequisitesString" type="string" to="506FS, 549FS"/>
+      <change idref="t550" attribute="resourceLeveledDate" type="date" to="2014-04-28T15:00:00.000Z"/>
+      <change idref="t550" attribute="styleDict" type="dict" to="{
+    &quot;font-fill&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+    &quot;gantt-fill-color&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+}"/>
+      <change idref="t550" attribute="title" type="string" to="Procurement"/>
+    </change>
+    <change idref="t551" to="t488" to-position="2" resolved="yes">
+      <change idref="t551" attribute="effort" type="real" from="28800" to="288000"/>
+      <change idref="t551" attribute="internalPrerequisitesString" type="string" to="550FS"/>
+      <change idref="t551" attribute="resourceLeveledDate" type="date" to="2014-05-05T15:00:00.000Z"/>
+      <change idref="t551" attribute="styleDict" type="dict" to="{
+    &quot;font-fill&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+    &quot;gantt-fill-color&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+}"/>
+      <change idref="t551" attribute="title" type="string" to="Fabrication"/>
+    </change>
+    <change idref="t552" to="t488" to-position="3" resolved="yes">
+      <change idref="t552" attribute="effort" type="real" from="28800" to="144000"/>
+      <change idref="t552" attribute="internalPrerequisitesString" type="string" to="551FS"/>
+      <change idref="t552" attribute="resourceLeveledDate" type="date" to="2014-05-19T15:00:00.000Z"/>
+      <change idref="t552" attribute="styleDict" type="dict" to="{
+    &quot;font-fill&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+    &quot;gantt-fill-color&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+}"/>
+      <change idref="t552" attribute="title" type="string" to="Assembly"/>
+    </change>
+    <change idref="t553" to="t488" to-position="4" resolved="yes">
+      <change idref="t553" attribute="effort" type="real" from="28800" to="144000"/>
+      <change idref="t553" attribute="internalPrerequisitesString" type="string" to="552FS"/>
+      <change idref="t553" attribute="resourceLeveledDate" type="date" to="2014-05-26T15:00:00.000Z"/>
+      <change idref="t553" attribute="title" type="string" to="Testing"/>
+    </change>
+    <change idref="t554" to="t489" to-position="0" resolved="yes">
+      <change idref="t554" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t554" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t554" attribute="title" type="string" to="Design"/>
+    </change>
+    <change idref="t555" to="t489" to-position="1" resolved="yes">
+      <change idref="t555" attribute="internalPrerequisitesString" type="string" to="506FS"/>
+      <change idref="t555" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t555" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t555" attribute="title" type="string" to="Procurement"/>
+    </change>
+    <change idref="t556" to="t489" to-position="2" resolved="yes">
+      <change idref="t556" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t556" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t556" attribute="title" type="string" to="Fabrication"/>
+    </change>
+    <change idref="t557" to="t489" to-position="3" resolved="yes">
+      <change idref="t557" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t557" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t557" attribute="title" type="string" to="Assembly"/>
+    </change>
+    <change idref="t558" to="t489" to-position="4" resolved="yes">
+      <change idref="t558" attribute="internalPrerequisitesString" type="string" to="557SS"/>
+      <change idref="t558" attribute="isGroup" type="real" from="0" to="1"/>
+      <change idref="t558" attribute="taskType" type="real" from="0" to="2"/>
+      <change idref="t558" attribute="title" type="string" to="Testing"/>
+    </change>
+    <change idref="t536" to="t491" to-position="0" resolved="yes">
+      <change idref="t536" attribute="effort" type="real" from="28800" to="288000"/>
+      <change idref="t536" attribute="internalPrerequisitesString" type="string" to="616FS"/>
+      <change idref="t536" attribute="resourceLeveledDate" type="date" to="2014-04-28T15:00:00.000Z"/>
+      <change idref="t536" attribute="styleDict" type="dict" to="{
+    &quot;font-fill&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+    &quot;gantt-fill-color&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+}"/>
+      <change idref="t536" attribute="title" type="string" to="Support channel"/>
+    </change>
+    <change idref="t537" to="t492" to-position="0" resolved="yes">
+      <change idref="t537" attribute="effort" type="real" from="28800" to="576000"/>
+      <change idref="t537" attribute="resourceLeveledDate" type="date" to="2014-05-12T15:00:00.000Z"/>
+      <change idref="t537" attribute="styleDict" type="dict" to="{
+    &quot;font-fill&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+    &quot;gantt-fill-color&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+}"/>
+      <change idref="t537" attribute="title" type="string" to="Support channel"/>
+    </change>
+    <change idref="t538" to="t493" to-position="0" resolved="yes">
+      <change idref="t538" attribute="effort" type="real" from="28800" to="288000"/>
+      <change idref="t538" attribute="resourceLeveledDate" type="date" to="2014-06-09T15:00:00.000Z"/>
+      <change idref="t538" attribute="styleDict" type="dict" to="{
+    &quot;font-fill&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+    &quot;gantt-fill-color&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+}"/>
+      <change idref="t538" attribute="title" type="string" to="Small parts"/>
+    </change>
+    <change idref="t592" to="t494" to-position="0" resolved="yes">
+      <change idref="t592" attribute="effort" type="real" from="28800" to="288000"/>
+      <change idref="t592" attribute="internalPrerequisitesString" type="string" to="490FS"/>
+      <change idref="t592" attribute="resourceLeveledDate" type="date" to="2014-06-30T15:00:00.000Z"/>
+      <change idref="t592" attribute="title" type="string" to="Module mounting"/>
+    </change>
+    <change idref="t593" to="t495" to-position="0" resolved="yes">
+      <change idref="t593" attribute="effort" type="real" from="28800" to="288000"/>
+      <change idref="t593" attribute="resourceLeveledDate" type="date" to="2014-07-14T15:00:00.000Z"/>
+      <change idref="t593" attribute="title" type="string" to="DAQ testing"/>
+    </change>
+    <change idref="t594" to="t495" to-position="1" resolved="yes">
+      <change idref="t594" attribute="effort" type="real" from="28800" to="288000"/>
+      <change idref="t594" attribute="resourceLeveledDate" type="date" to="2014-07-14T15:00:00.000Z"/>
+      <change idref="t594" attribute="title" type="string" to="Survey"/>
+    </change>
+    <change idref="t559" to="t497" to-position="0" resolved="yes">
+      <change idref="t559" attribute="effort" type="real" from="28800" to="288000"/>
+      <change idref="t559" attribute="internalPrerequisitesString" type="string" to="597FS"/>
+      <change idref="t559" attribute="resourceLeveledDate" type="date" to="2014-04-21T15:00:00.000Z"/>
+      <change idref="t559" attribute="styleDict" type="dict" to="{
+    &quot;font-fill&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+    &quot;gantt-fill-color&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+}"/>
+      <change idref="t559" attribute="title" type="string" to="Support channel"/>
+    </change>
+    <change idref="t560" to="t498" to-position="0" resolved="yes">
+      <change idref="t560" attribute="effort" type="real" from="28800" to="576000"/>
+      <change idref="t560" attribute="resourceLeveledDate" type="date" to="2014-05-05T15:00:00.000Z"/>
+      <change idref="t560" attribute="styleDict" type="dict" to="{
+    &quot;font-fill&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+    &quot;gantt-fill-color&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+}"/>
+      <change idref="t560" attribute="title" type="string" to="Support channel"/>
+    </change>
+    <change idref="t561" to="t499" to-position="0" resolved="yes">
+      <change idref="t561" attribute="effort" type="real" from="28800" to="288000"/>
+      <change idref="t561" attribute="resourceLeveledDate" type="date" to="2014-06-02T15:00:00.000Z"/>
+      <change idref="t561" attribute="styleDict" type="dict" to="{
+    &quot;font-fill&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+    &quot;gantt-fill-color&quot; =     {
+        b = 0;
+        g = 0;
+        r = 1;
+    };
+}"/>
+      <change idref="t561" attribute="title" type="string" to="Small parts"/>
+    </change>
+    <change idref="t585" to="t500" to-position="0" resolved="yes">
+      <change idref="t585" attribute="effort" type="real" from="28800" to="288000"/>
+      <change idref="t585" attribute="resourceLeveledDate" type="date" to="2014-06-23T15:00:00.000Z"/>
+      <change idref="t585" attribute="title" type="string" to="Module mounting"/>
+    </change>
+  </task-change-set>
+  <task-change-set user="Per Hansson Adrian" date="2014-04-21T21:26:45.572Z" timestamp="2014-04-21T21:26:45.572Z">
+    <change idref="t348" attribute="internalPrerequisitesString" type="string" to="416FS" resolved="yes"/>
+    <change idref="t367" attribute="internalPrerequisitesString" type="string" from="366FS" to="366FS, 440FS" resolved="yes"/>
+    <change idref="t371" attribute="internalPrerequisitesString" type="string" from="370FS" to="370FS, 445FS, 445FS" resolved="yes"/>
+    <change idref="t402" attribute="resourceLeveledDate" type="date" from="2014-07-09T15:00:00.000Z" to="2014-07-14T15:00:00.000Z" resolved="yes"/>
+    <change idref="t404" attribute="resourceLeveledDate" type="date" from="2014-07-30T15:00:00.000Z" to="2014-08-04T15:00:00.000Z" resolved="yes"/>
+    <change idref="t421" attribute="resourceLeveledDate" type="date" from="2014-09-03T00:00:00.000Z" to="2014-09-06T00:00:00.000Z" resolved="yes"/>
+    <change idref="t426" attribute="noEarlierThanConstraintDate" type="date" from="2014-02-14T16:00:00.000Z" resolved="yes"/>
+    <change idref="t445" attribute="percentCompleteForMilestone" type="real" from="0" to="1" resolved="yes"/>
+    <change idref="t445" attribute="noEarlierThanConstraintDate" type="date" from="2014-04-17T15:00:00.000Z" resolved="yes"/>
+    <change idref="t446" attribute="noEarlierThanConstraintDate" type="date" from="2014-04-17T15:00:00.000Z" resolved="yes"/>
+    <change idref="t447" attribute="noEarlierThanConstraintDate" type="date" from="2014-04-17T15:00:00.000Z" resolved="yes"/>
+    <change idref="t467" attribute="resourceLeveledDate" type="date" from="2014-07-23T15:00:00.000Z" to="2014-07-28T15:00:00.000Z" resolved="yes"/>
+  </task-change-set>
+  <task-change-set user="Per Hansson Adrian" date="2014-04-21T21:33:55.908Z" timestamp="2014-04-21T21:33:55.908Z">
+    <change idref="t347" attribute="noLaterThanConstrainedTaskEnd" type="real" from="1" to="0" resolved="yes"/>
+    <change idref="t417" attribute="resourceLeveledDate" type="date" from="2014-05-17T00:00:00.000Z" to="2014-05-24T00:00:00.000Z" resolved="yes"/>
+    <change idref="t425" attribute="noEarlierThanConstraintDate" type="date" from="2013-11-22T16:00:00.000Z" resolved="yes"/>
+    <change idref="t445" attribute="resourceLeveledDate" type="date" from="2014-05-03T00:00:00.000Z" to="2014-05-10T00:00:00.000Z" resolved="yes"/>
+    <change idref="t446" attribute="resourceLeveledDate" type="date" from="2014-05-05T15:00:00.000Z" to="2014-05-12T15:00:00.000Z" resolved="yes"/>
+    <change idref="t447" attribute="resourceLeveledDate" type="date" from="2014-05-12T15:00:00.000Z" to="2014-05-19T15:00:00.000Z" resolved="yes"/>
+    <change idref="t448" attribute="noLaterThanConstrainedTaskEnd" type="real" from="1" to="0" resolved="yes"/>
+    <change idref="t505" attribute="resourceLeveledDate" type="date" from="2014-07-19T00:00:00.000Z" to="2014-07-26T00:00:00.000Z" resolved="yes"/>
+    <change idref="t507" attribute="internalPrerequisitesString" type="string" from="496FS, 502FS, 510FS, 511FS" to="416FS, 496FS, 502FS, 510FS, 511FS" resolved="yes"/>
+    <change idref="t510" attribute="effort" type="real" from="576000" to="288000" resolved="yes"/>
+    <change idref="t510" attribute="resourceLeveledDate" type="date" from="2014-06-03T15:00:00.000Z" to="2014-06-09T15:00:00.000Z" resolved="yes"/>
+    <change idref="t515" attribute="resourceLeveledDate" type="date" from="2014-05-20T15:00:00.000Z" to="2014-05-26T15:00:00.000Z" resolved="yes"/>
+    <change idref="t580" attribute="effort" type="real" from="288000" to="432000" resolved="yes"/>
+    <change idref="t580" attribute="noEarlierThanConstraintDate" type="date" to="2014-04-28T15:00:00.000Z" resolved="yes"/>
+    <change idref="t581" attribute="resourceLeveledDate" type="date" from="2014-05-26T15:00:00.000Z" to="2014-06-02T15:00:00.000Z" resolved="yes"/>
+    <change idref="t582" attribute="resourceLeveledDate" type="date" from="2014-06-23T15:00:00.000Z" to="2014-06-30T15:00:00.000Z" resolved="yes"/>
+    <change idref="t583" attribute="resourceLeveledDate" type="date" from="2014-07-07T15:00:00.000Z" to="2014-07-14T15:00:00.000Z" resolved="yes"/>
+    <change idref="t584" attribute="resourceLeveledDate" type="date" from="2014-07-14T15:00:00.000Z" to="2014-07-21T15:00:00.000Z" resolved="yes"/>
+  </task-change-set>
+  <task-change-set user="Per Hansson Adrian" date="2014-04-21T21:48:09.289Z" timestamp="2014-04-21T21:48:09.289Z">
+    <change idref="t483" attribute="noLaterThanConstrainedTaskEnd" type="real" from="1" to="0" resolved="yes"/>
+    <change idref="t486" attribute="resourceLeveledDate" type="date" from="2014-06-21T00:00:00.000Z" to="2014-07-07T15:42:22.000Z" resolved="yes"/>
+    <change idref="t502" attribute="resourceLeveledDate" type="date" from="2014-07-19T00:00:00.000Z" to="2014-08-04T15:42:22.000Z" resolved="yes"/>
+    <change idref="t507" attribute="resourceLeveledDate" type="date" from="2014-07-28T15:00:00.000Z" to="2014-08-04T15:42:22.000Z" resolved="yes"/>
+    <change idref="t508" attribute="resourceLeveledDate" type="date" from="2014-08-11T15:00:00.000Z" to="2014-08-18T15:42:22.000Z" resolved="yes"/>
+    <change idref="t509" attribute="resourceLeveledDate" type="date" from="2014-09-06T00:00:00.000Z" to="2014-09-15T15:42:22.000Z" resolved="yes"/>
+    <change idref="t516" attribute="effort" type="real" from="144000" to="146542" resolved="yes"/>
+    <change idref="t516" attribute="resourceLeveledDate" type="date" from="2013-02-01T16:00:00.000Z" to="2014-05-05T15:00:00.000Z" resolved="yes"/>
+    <change idref="t516" attribute="noEarlierThanConstraintDate" type="date" to="2014-05-05T15:00:00.000Z" resolved="yes"/>
+    <change idref="t517" attribute="effort" type="real" from="1728000" to="288000" resolved="yes"/>
+    <change idref="t517" attribute="resourceLeveledDate" type="date" from="2013-02-08T16:00:00.000Z" to="2014-05-12T15:42:22.000Z" resolved="yes"/>
+    <change idref="t518" attribute="effort" type="real" from="288000" to="144000" resolved="yes"/>
+    <change idref="t518" attribute="resourceLeveledDate" type="date" from="2014-04-15T15:00:00.000Z" to="2014-05-26T15:42:22.000Z" resolved="yes"/>
+    <change idref="t519" attribute="resourceLeveledDate" type="date" from="2014-04-29T00:00:00.000Z" to="2014-06-02T15:42:22.000Z" resolved="yes"/>
+    <change idref="t576" attribute="resourceLeveledDate" type="date" from="2014-09-08T15:00:00.000Z" to="2014-09-15T15:42:22.000Z" resolved="yes"/>
+    <change idref="t577" attribute="resourceLeveledDate" type="date" from="2014-09-22T15:00:00.000Z" to="2014-09-29T15:42:22.000Z" resolved="yes"/>
+    <change idref="t578" attribute="resourceLeveledDate" type="date" from="2014-10-20T15:00:00.000Z" to="2014-10-27T15:42:22.000Z" resolved="yes"/>
+    <change idref="t579" attribute="resourceLeveledDate" type="date" from="2014-10-25T00:00:00.000Z" to="2014-11-03T16:42:22.000Z" resolved="yes"/>
+    <change idref="t585" attribute="resourceLeveledDate" type="date" from="2014-06-23T15:00:00.000Z" to="2014-07-07T15:42:22.000Z" resolved="yes"/>
+    <change idref="t586" attribute="resourceLeveledDate" type="date" from="2014-06-23T15:00:00.000Z" to="2014-07-07T15:42:22.000Z" resolved="yes"/>
+    <change idref="t587" attribute="resourceLeveledDate" type="date" from="2014-06-23T15:00:00.000Z" to="2014-07-07T15:42:22.000Z" resolved="yes"/>
+    <change idref="t601" attribute="resourceLeveledDate" type="date" from="2014-05-19T15:00:00.000Z" to="2014-06-02T15:42:22.000Z" resolved="yes"/>
+    <change idref="t602" attribute="resourceLeveledDate" type="date" from="2014-05-26T15:00:00.000Z" to="2014-06-09T15:42:22.000Z" resolved="yes"/>
+    <change idref="t603" attribute="resourceLeveledDate" type="date" from="2014-06-09T15:00:00.000Z" to="2014-06-23T15:42:22.000Z" resolved="yes"/>
+    <change idref="t604" attribute="resourceLeveledDate" type="date" from="2014-06-09T15:00:00.000Z" to="2014-06-23T15:42:22.000Z" resolved="yes"/>
+  </task-change-set>
+  <task-change-set user="Per Hansson Adrian" date="2014-04-21T21:53:04.594Z" timestamp="2014-04-21T21:53:04.594Z">
+    <change idref="t410" attribute="internalPrerequisitesString" type="string" from="401FF, 409FS" to="409FS" resolved="yes"/>
+    <change idref="t417" attribute="resourceLeveledDate" type="date" from="2014-05-24T00:00:00.000Z" to="2014-05-17T00:00:00.000Z" resolved="yes"/>
+    <change idref="t445" attribute="internalPrerequisitesString" type="string" from="401FS, 410FS" to="410FS" resolved="yes"/>
+    <change idref="t445" attribute="resourceLeveledDate" type="date" from="2014-05-10T00:00:00.000Z" to="2014-05-03T00:00:00.000Z" resolved="yes"/>
+    <change idref="t446" attribute="resourceLeveledDate" type="date" from="2014-05-12T15:00:00.000Z" to="2014-05-05T15:00:00.000Z" resolved="yes"/>
+    <change idref="t447" attribute="resourceLeveledDate" type="date" from="2014-05-19T15:00:00.000Z" to="2014-05-12T15:00:00.000Z" resolved="yes"/>
+    <change idref="t510" attribute="resourceLeveledDate" type="date" from="2014-06-09T15:00:00.000Z" to="2014-06-03T15:00:00.000Z" resolved="yes"/>
+    <change idref="t515" attribute="resourceLeveledDate" type="date" from="2014-05-26T15:00:00.000Z" to="2014-05-20T15:00:00.000Z" resolved="yes"/>
   </task-change-set>
 </changelog>

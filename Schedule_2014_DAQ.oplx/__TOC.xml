@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <omniplan xmlns="http://www.omnigroup.com/namespace/OmniPlan/v2">
-  <window x="0" y="47" w="1440" h="831">
+  <window x="1440" y="-300" w="1600" h="1178">
     <editing-scenario>bkBbjkD2avB</editing-scenario>
     <view>task</view>
     <change-tracking/>
@@ -8,16 +8,16 @@
     <status-display>extended</status-display>
     <task-view>
       <split-view-divider-position>500</split-view-divider-position>
-      <outline x="0" y="0" w="500" h="712">
+      <outline x="0" y="0" w="500" h="1059">
         <column name="Violations" width="20"/>
         <column name="Notes" width="20"/>
         <column name="Title" width="385"/>
         <column name="Effort" width="70"/>
-        <expanded-items idrefs="t242 t26 t188 t164 t96 t196 t97 t169 t33 t243 t189 t28 t185 t197 t34 t72 t40 t35 t244 t54 t166 t73 t41 t186 t198 t342 t74 t42 t167 t241 t75 t187 t199 t43 t30 t195 t191 t25 t44 t246 t168"/>
+        <expanded-items idrefs="t166 t73 t195 t532 t498 t188 t74 t25 t167 t244 t491 t75 t33 t26 t196 t533 t499 t189 t40 t41 t168 t34 t492 t42 t197 t35 t534 t28 t246 t43 t169 t493 t198 t44 t191 t494 t360 t500 t199 t185 t96 t558 t522 t54 t495 t241 t501 t97 t164 t361 t186 t530 t242 t362 t187 t531 t497 t72 t30 t243"/>
         <expanded-item-notes idrefs="t467 t425"/>
-        <selected-items-at-filter-time idrefs="t463 t447 t437 t457 t462 t446 t436 t442 t439 t445 t468 t464 t460 t438 t440 t467"/>
+        <selected-items-at-filter-time idrefs="t463 t447 t437 t457 t462 t446 t436 t442 t439 t445 t468 t460 t438 t440 t467"/>
       </outline>
-      <gantt-view x="0" y="0" w="924" h="712">
+      <gantt-view x="-12" y="0" w="1084" h="1059">
         <view-mode>actual</view-mode>
         <critical-path/>
         <dependency-lines/>
@@ -53,24 +53,24 @@
         <scale scale-name="Day" full-day-width="1215"/>
         <scale scale-name="Hour" full-day-width="65880"/>
         <scale scale-name="Minute" full-day-width="64800"/>
-        <scale scale-name="Month" full-day-width="5.65067">
+        <scale scale-name="Month" full-day-width="6.30201">
           <selected/>
         </scale>
         <scale scale-name="Quarter" full-day-width="5.59851"/>
-        <scale scale-name="Week" full-day-width="162"/>
+        <scale scale-name="Week" full-day-width="74.7824"/>
         <scale scale-name="Year" full-day-width="2.3625"/>
       </gantt-view>
     </task-view>
     <resource-view>
       <split-view-divider-position>306</split-view-divider-position>
-      <outline x="0" y="0" w="306" h="727">
+      <outline x="0" y="0" w="291" h="1059">
         <column name="IM" width="20"/>
         <column name="Notes" width="20"/>
         <column name="Type" width="49"/>
         <column name="Resource" width="135"/>
         <column name="#" width="75"/>
       </outline>
-      <timeline x="-97" y="0" w="1053" h="727">
+      <timeline x="-104" y="0" w="1250" h="1059">
         <task-bar-label task-type="group" position="left">
           <key>Title</key>
         </task-bar-label>
@@ -112,7 +112,7 @@
     </resource-view>
     <calendar>
       <split-view-divider-position>290</split-view-divider-position>
-      <outline x="0" y="0" w="290" h="696">
+      <outline x="0" y="0" w="275" h="1024">
         <column name="IM" width="20"/>
         <column name="Notes" width="20"/>
         <column name="Type" width="49"/>
@@ -123,7 +123,7 @@
     </calendar>
   </window>
   <project>
-    <next-task-id>471</next-task-id>
+    <next-task-id>622</next-task-id>
     <next-resource-id>2</next-resource-id>
     <scenario id="bkBbjkD2avB" name="Actual" filename="Actual.xml"/>
     <date-display dates="true" times="true" seconds="false"/>
