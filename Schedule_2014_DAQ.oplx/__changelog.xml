@@ -2030,4 +2030,76 @@
     <change idref="t510" attribute="resourceLeveledDate" type="date" from="2014-06-09T15:00:00.000Z" to="2014-06-03T15:00:00.000Z" resolved="yes"/>
     <change idref="t515" attribute="resourceLeveledDate" type="date" from="2014-05-26T15:00:00.000Z" to="2014-05-20T15:00:00.000Z" resolved="yes"/>
   </task-change-set>
+  <task-change-set user="Per Hansson Adrian" date="2014-04-22T18:04:40.731Z" timestamp="2014-04-22T18:04:40.731Z">
+    <change idref="t622" to="t354" to-position="1" resolved="yes">
+      <change idref="t622" attribute="internalPrerequisitesString" type="string" to="372FS"/>
+      <change idref="t622" attribute="noEarlierThanConstraintDate" type="date" to="2014-04-22T15:00:00.000Z"/>
+      <change idref="t622" attribute="resourceLeveledDate" type="date" to="2014-05-02T15:00:00.000Z"/>
+      <change idref="t622" attribute="title" type="string" to="Schematic"/>
+    </change>
+    <change idref="t623" to="t354" to-position="2" resolved="yes">
+      <change idref="t623" attribute="effort" type="real" from="28800" to="288000"/>
+      <change idref="t623" attribute="internalPrerequisitesString" type="string" to="622FS"/>
+      <change idref="t623" attribute="noEarlierThanConstraintDate" type="date" to="2014-04-22T15:00:00.000Z"/>
+      <change idref="t623" attribute="resourceLeveledDate" type="date" to="2014-05-05T15:00:00.000Z"/>
+      <change idref="t623" attribute="title" type="string" to="Layout"/>
+    </change>
+    <change idref="t625" to="t355" to-position="1" resolved="yes">
+      <change idref="t625" attribute="internalPrerequisitesString" type="string" to="378FS"/>
+      <change idref="t625" attribute="resourceLeveledDate" type="date" to="2014-05-02T15:00:00.000Z"/>
+      <change idref="t625" attribute="title" type="string" to="Schematic"/>
+    </change>
+    <change idref="t626" to="t355" to-position="2" resolved="yes">
+      <change idref="t626" attribute="effort" type="real" from="28800" to="288000"/>
+      <change idref="t626" attribute="internalPrerequisitesString" type="string" to="625FS"/>
+      <change idref="t626" attribute="resourceLeveledDate" type="date" to="2014-05-05T15:00:00.000Z"/>
+      <change idref="t626" attribute="title" type="string" to="Layout"/>
+    </change>
+    <change idref="t627" to="t356" to-position="1" resolved="yes">
+      <change idref="t627" attribute="internalPrerequisitesString" type="string" to="382FS"/>
+      <change idref="t627" attribute="resourceLeveledDate" type="date" to="2014-05-02T15:00:00.000Z"/>
+      <change idref="t627" attribute="title" type="string" to="Schematic"/>
+    </change>
+    <change idref="t628" to="t356" to-position="2" resolved="yes">
+      <change idref="t628" attribute="effort" type="real" from="28800" to="288000"/>
+      <change idref="t628" attribute="internalPrerequisitesString" type="string" to="627FS"/>
+      <change idref="t628" attribute="resourceLeveledDate" type="date" to="2014-05-05T15:00:00.000Z"/>
+      <change idref="t628" attribute="title" type="string" to="Layout"/>
+    </change>
+    <change idref="t629" to="t357" to-position="1" resolved="yes">
+      <change idref="t629" attribute="internalPrerequisitesString" type="string" to="386FS"/>
+      <change idref="t629" attribute="resourceLeveledDate" type="date" to="2014-05-02T15:00:00.000Z"/>
+      <change idref="t629" attribute="title" type="string" to="Schematic"/>
+    </change>
+    <change idref="t630" to="t357" to-position="2" resolved="yes">
+      <change idref="t630" attribute="effort" type="real" from="28800" to="288000"/>
+      <change idref="t630" attribute="internalPrerequisitesString" type="string" to="629FS"/>
+      <change idref="t630" attribute="resourceLeveledDate" type="date" to="2014-05-05T15:00:00.000Z"/>
+      <change idref="t630" attribute="title" type="string" to="Layout"/>
+    </change>
+    <change idref="t372" attribute="effort" type="real" from="432000" to="288000" resolved="yes"/>
+    <change idref="t373" attribute="internalPrerequisitesString" type="string" from="372FS" to="623FS" resolved="yes"/>
+    <change idref="t373" attribute="resourceLeveledDate" type="date" from="2014-05-09T15:00:00.000Z" to="2014-05-19T15:00:00.000Z" resolved="yes"/>
+    <change idref="t375" attribute="resourceLeveledDate" type="date" from="2014-05-16T15:00:00.000Z" to="2014-05-26T15:00:00.000Z" resolved="yes"/>
+    <change idref="t376" attribute="resourceLeveledDate" type="date" from="2014-05-23T15:00:00.000Z" to="2014-06-02T15:00:00.000Z" resolved="yes"/>
+    <change idref="t378" attribute="effort" type="real" from="432000" to="288000" resolved="yes"/>
+    <change idref="t379" attribute="internalPrerequisitesString" type="string" from="378FS" to="626FS" resolved="yes"/>
+    <change idref="t379" attribute="resourceLeveledDate" type="date" from="2014-05-09T15:00:00.000Z" to="2014-05-19T15:00:00.000Z" resolved="yes"/>
+    <change idref="t380" attribute="resourceLeveledDate" type="date" from="2014-05-16T15:00:00.000Z" to="2014-05-26T15:00:00.000Z" resolved="yes"/>
+    <change idref="t381" attribute="resourceLeveledDate" type="date" from="2014-05-23T15:00:00.000Z" to="2014-06-02T15:00:00.000Z" resolved="yes"/>
+    <change idref="t382" attribute="effort" type="real" from="432000" to="288000" resolved="yes"/>
+    <change idref="t383" attribute="internalPrerequisitesString" type="string" from="382FS" to="628FS" resolved="yes"/>
+    <change idref="t383" attribute="resourceLeveledDate" type="date" from="2014-05-09T15:00:00.000Z" to="2014-05-19T15:00:00.000Z" resolved="yes"/>
+    <change idref="t384" attribute="resourceLeveledDate" type="date" from="2014-05-16T15:00:00.000Z" to="2014-05-26T15:00:00.000Z" resolved="yes"/>
+    <change idref="t385" attribute="resourceLeveledDate" type="date" from="2014-05-23T15:00:00.000Z" to="2014-06-02T15:00:00.000Z" resolved="yes"/>
+    <change idref="t386" attribute="effort" type="real" from="432000" to="288000" resolved="yes"/>
+    <change idref="t387" attribute="internalPrerequisitesString" type="string" from="386FS" to="630FS" resolved="yes"/>
+    <change idref="t387" attribute="resourceLeveledDate" type="date" from="2014-05-09T15:00:00.000Z" to="2014-05-19T15:00:00.000Z" resolved="yes"/>
+    <change idref="t388" attribute="resourceLeveledDate" type="date" from="2014-05-16T15:00:00.000Z" to="2014-05-26T15:00:00.000Z" resolved="yes"/>
+    <change idref="t389" attribute="resourceLeveledDate" type="date" from="2014-05-23T15:00:00.000Z" to="2014-06-02T15:00:00.000Z" resolved="yes"/>
+    <change idref="t418" attribute="resourceLeveledDate" type="date" from="2014-05-30T00:00:00.000Z" to="2014-06-07T00:00:00.000Z" resolved="yes"/>
+  </task-change-set>
+  <task-change-set user="Per Hansson Adrian" date="2014-04-22T18:05:10.457Z" timestamp="2014-04-22T18:05:10.457Z">
+    <change idref="t418" attribute="noLaterThanConstrainedTaskEnd" type="real" from="1" to="0" resolved="yes"/>
+  </task-change-set>
 </changelog>

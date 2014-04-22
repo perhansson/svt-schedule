@@ -232,6 +232,8 @@
     <leveled-start>2014-04-18T15:00:00.000Z</leveled-start>
     <start-constraint-date>2014-04-18T15:00:00.000Z</start-constraint-date>
     <child-task idref="t372"/>
+    <child-task idref="t622"/>
+    <child-task idref="t623"/>
     <child-task idref="t373"/>
     <child-task idref="t375"/>
     <child-task idref="t376"/>
@@ -243,6 +245,8 @@
     <leveled-start>2014-04-18T15:00:00.000Z</leveled-start>
     <start-constraint-date>2014-04-18T15:00:00.000Z</start-constraint-date>
     <child-task idref="t378"/>
+    <child-task idref="t625"/>
+    <child-task idref="t626"/>
     <child-task idref="t379"/>
     <child-task idref="t380"/>
     <child-task idref="t381"/>
@@ -254,6 +258,8 @@
     <leveled-start>2014-04-18T15:00:00.000Z</leveled-start>
     <start-constraint-date>2014-04-18T15:00:00.000Z</start-constraint-date>
     <child-task idref="t382"/>
+    <child-task idref="t627"/>
+    <child-task idref="t628"/>
     <child-task idref="t383"/>
     <child-task idref="t384"/>
     <child-task idref="t385"/>
@@ -265,6 +271,8 @@
     <leveled-start>2014-04-18T15:00:00.000Z</leveled-start>
     <start-constraint-date>2014-04-18T15:00:00.000Z</start-constraint-date>
     <child-task idref="t386"/>
+    <child-task idref="t629"/>
+    <child-task idref="t630"/>
     <child-task idref="t387"/>
     <child-task idref="t388"/>
     <child-task idref="t389"/>
@@ -388,26 +396,27 @@
   <task id="t372">
     <title>Design</title>
     <leveled-start>2014-04-18T15:00:00.000Z</leveled-start>
-    <effort>432000</effort>
+    <effort>288000</effort>
     <min-estimate>28800</min-estimate>
+    <max-estimate>432000</max-estimate>
   </task>
   <task id="t373">
     <title>Procurement</title>
-    <leveled-start>2014-05-09T15:00:00.000Z</leveled-start>
+    <leveled-start>2014-05-19T15:00:00.000Z</leveled-start>
     <effort>144000</effort>
     <min-estimate>28800</min-estimate>
-    <prerequisite-task idref="t372"/>
+    <prerequisite-task idref="t623"/>
   </task>
   <task id="t375">
     <title>Assembly</title>
-    <leveled-start>2014-05-16T15:00:00.000Z</leveled-start>
+    <leveled-start>2014-05-26T15:00:00.000Z</leveled-start>
     <effort>144000</effort>
     <min-estimate>28800</min-estimate>
     <prerequisite-task idref="t373"/>
   </task>
   <task id="t376">
     <title>Testing</title>
-    <leveled-start>2014-05-23T15:00:00.000Z</leveled-start>
+    <leveled-start>2014-06-02T15:00:00.000Z</leveled-start>
     <effort>144000</effort>
     <min-estimate>28800</min-estimate>
     <prerequisite-task idref="t375"/>
@@ -415,26 +424,27 @@
   <task id="t378">
     <title>Design</title>
     <leveled-start>2014-04-18T15:00:00.000Z</leveled-start>
-    <effort>432000</effort>
+    <effort>288000</effort>
     <min-estimate>28800</min-estimate>
+    <max-estimate>432000</max-estimate>
   </task>
   <task id="t379">
     <title>Procurement</title>
-    <leveled-start>2014-05-09T15:00:00.000Z</leveled-start>
+    <leveled-start>2014-05-19T15:00:00.000Z</leveled-start>
     <effort>144000</effort>
     <min-estimate>28800</min-estimate>
-    <prerequisite-task idref="t378"/>
+    <prerequisite-task idref="t626"/>
   </task>
   <task id="t380">
     <title>Assembly</title>
-    <leveled-start>2014-05-16T15:00:00.000Z</leveled-start>
+    <leveled-start>2014-05-26T15:00:00.000Z</leveled-start>
     <effort>144000</effort>
     <min-estimate>28800</min-estimate>
     <prerequisite-task idref="t379"/>
   </task>
   <task id="t381">
     <title>Testing</title>
-    <leveled-start>2014-05-23T15:00:00.000Z</leveled-start>
+    <leveled-start>2014-06-02T15:00:00.000Z</leveled-start>
     <effort>144000</effort>
     <min-estimate>28800</min-estimate>
     <prerequisite-task idref="t380"/>
@@ -442,26 +452,27 @@
   <task id="t382">
     <title>Design</title>
     <leveled-start>2014-04-18T15:00:00.000Z</leveled-start>
-    <effort>432000</effort>
+    <effort>288000</effort>
     <min-estimate>28800</min-estimate>
+    <max-estimate>432000</max-estimate>
   </task>
   <task id="t383">
     <title>Procurement</title>
-    <leveled-start>2014-05-09T15:00:00.000Z</leveled-start>
+    <leveled-start>2014-05-19T15:00:00.000Z</leveled-start>
     <effort>144000</effort>
     <min-estimate>28800</min-estimate>
-    <prerequisite-task idref="t382"/>
+    <prerequisite-task idref="t628"/>
   </task>
   <task id="t384">
     <title>Assembly</title>
-    <leveled-start>2014-05-16T15:00:00.000Z</leveled-start>
+    <leveled-start>2014-05-26T15:00:00.000Z</leveled-start>
     <effort>144000</effort>
     <min-estimate>28800</min-estimate>
     <prerequisite-task idref="t383"/>
   </task>
   <task id="t385">
     <title>Testing</title>
-    <leveled-start>2014-05-23T15:00:00.000Z</leveled-start>
+    <leveled-start>2014-06-02T15:00:00.000Z</leveled-start>
     <effort>144000</effort>
     <min-estimate>28800</min-estimate>
     <prerequisite-task idref="t384"/>
@@ -469,26 +480,27 @@
   <task id="t386">
     <title>Design</title>
     <leveled-start>2014-04-18T15:00:00.000Z</leveled-start>
-    <effort>432000</effort>
+    <effort>288000</effort>
     <min-estimate>28800</min-estimate>
+    <max-estimate>432000</max-estimate>
   </task>
   <task id="t387">
     <title>Procurement</title>
-    <leveled-start>2014-05-09T15:00:00.000Z</leveled-start>
+    <leveled-start>2014-05-19T15:00:00.000Z</leveled-start>
     <effort>144000</effort>
     <min-estimate>28800</min-estimate>
-    <prerequisite-task idref="t386"/>
+    <prerequisite-task idref="t630"/>
   </task>
   <task id="t388">
     <title>Assembly</title>
-    <leveled-start>2014-05-16T15:00:00.000Z</leveled-start>
+    <leveled-start>2014-05-26T15:00:00.000Z</leveled-start>
     <effort>144000</effort>
     <min-estimate>28800</min-estimate>
     <prerequisite-task idref="t387"/>
   </task>
   <task id="t389">
     <title>Testing</title>
-    <leveled-start>2014-05-23T15:00:00.000Z</leveled-start>
+    <leveled-start>2014-06-02T15:00:00.000Z</leveled-start>
     <effort>144000</effort>
     <min-estimate>28800</min-estimate>
     <prerequisite-task idref="t388"/>
@@ -652,7 +664,7 @@
   <task id="t418">
     <title>Cables Complete</title>
     <type>milestone</type>
-    <leveled-start>2014-05-30T00:00:00.000Z</leveled-start>
+    <leveled-start>2014-06-07T00:00:00.000Z</leveled-start>
     <prerequisite-task idref="t354"/>
     <prerequisite-task idref="t355"/>
     <prerequisite-task idref="t356"/>
@@ -2436,6 +2448,62 @@
     <leveled-start>2014-06-02T15:00:00.000Z</leveled-start>
     <effort>288000</effort>
     <min-estimate>28800</min-estimate>
+  </task>
+  <task id="t622">
+    <title>Schematic</title>
+    <leveled-start>2014-05-02T15:00:00.000Z</leveled-start>
+    <effort>28800</effort>
+    <start-constraint-date>2014-04-22T15:00:00.000Z</start-constraint-date>
+    <prerequisite-task idref="t372"/>
+    <start-no-earlier-than>2014-04-22T15:00:00.000Z</start-no-earlier-than>
+  </task>
+  <task id="t623">
+    <title>Layout</title>
+    <leveled-start>2014-05-05T15:00:00.000Z</leveled-start>
+    <effort>288000</effort>
+    <min-estimate>28800</min-estimate>
+    <start-constraint-date>2014-04-22T15:00:00.000Z</start-constraint-date>
+    <prerequisite-task idref="t622"/>
+    <start-no-earlier-than>2014-04-22T15:00:00.000Z</start-no-earlier-than>
+  </task>
+  <task id="t625">
+    <title>Schematic</title>
+    <leveled-start>2014-05-02T15:00:00.000Z</leveled-start>
+    <effort>28800</effort>
+    <prerequisite-task idref="t378"/>
+  </task>
+  <task id="t626">
+    <title>Layout</title>
+    <leveled-start>2014-05-05T15:00:00.000Z</leveled-start>
+    <effort>288000</effort>
+    <min-estimate>28800</min-estimate>
+    <prerequisite-task idref="t625"/>
+  </task>
+  <task id="t627">
+    <title>Schematic</title>
+    <leveled-start>2014-05-02T15:00:00.000Z</leveled-start>
+    <effort>28800</effort>
+    <prerequisite-task idref="t382"/>
+  </task>
+  <task id="t628">
+    <title>Layout</title>
+    <leveled-start>2014-05-05T15:00:00.000Z</leveled-start>
+    <effort>288000</effort>
+    <min-estimate>28800</min-estimate>
+    <prerequisite-task idref="t627"/>
+  </task>
+  <task id="t629">
+    <title>Schematic</title>
+    <leveled-start>2014-05-02T15:00:00.000Z</leveled-start>
+    <effort>28800</effort>
+    <prerequisite-task idref="t386"/>
+  </task>
+  <task id="t630">
+    <title>Layout</title>
+    <leveled-start>2014-05-05T15:00:00.000Z</leveled-start>
+    <effort>288000</effort>
+    <min-estimate>28800</min-estimate>
+    <prerequisite-task idref="t629"/>
   </task>
   <critical-path root="-1" enabled="true" resources="false">
     <color r="1" g="0.5" b="0.5"/>
