@@ -163,6 +163,7 @@
     <start-constraint-date>2014-01-06T16:00:00.000Z</start-constraint-date>
     <child-task idref="t361"/>
     <child-task idref="t362"/>
+    <child-task idref="t652"/>
     <child-task idref="t420"/>
     <start-no-earlier-than>2014-01-06T16:00:00.000Z</start-no-earlier-than>
   </task>
@@ -176,7 +177,10 @@
     <child-task idref="t409"/>
     <child-task idref="t410"/>
     <child-task idref="t445"/>
+    <child-task idref="t633"/>
+    <child-task idref="t634"/>
     <child-task idref="t446"/>
+    <child-task idref="t636"/>
     <child-task idref="t447"/>
     <child-task idref="t417"/>
     <start-no-earlier-than>2013-11-25T16:00:00.000Z</start-no-earlier-than>
@@ -184,9 +188,8 @@
   <task id="t348">
     <title>Integration</title>
     <type>group</type>
-    <leveled-start>2014-07-09T15:00:00.000Z</leveled-start>
+    <leveled-start>2014-09-01T15:00:00.000Z</leveled-start>
     <child-task idref="t402"/>
-    <child-task idref="t467"/>
     <child-task idref="t404"/>
   </task>
   <task id="t349">
@@ -217,9 +220,9 @@
   <task id="t353">
     <title>Testing</title>
     <leveled-start>2014-02-07T16:00:00.000Z</leveled-start>
-    <effort>2332800</effort>
+    <effort>3484800</effort>
     <min-estimate>28800</min-estimate>
-    <max-estimate>2505600</max-estimate>
+    <max-estimate>3686400</max-estimate>
     <prerequisite-task idref="t352"/>
     <prerequisite-task idref="t410" kind="SS"/>
     <prerequisite-task idref="t411"/>
@@ -327,22 +330,24 @@
   </task>
   <task id="t363">
     <title>DTM Firmware</title>
-    <leveled-start>2014-05-30T15:00:00.000Z</leveled-start>
+    <leveled-start>2014-07-10T21:15:00.000Z</leveled-start>
     <effort>288000</effort>
     <min-estimate>28800</min-estimate>
     <prerequisite-task idref="t365"/>
   </task>
   <task id="t364">
     <title>DPM Firmware</title>
-    <leveled-start>2014-05-02T15:00:00.000Z</leveled-start>
+    <leveled-start>2014-06-12T21:15:00.000Z</leveled-start>
     <effort>288000</effort>
     <min-estimate>28800</min-estimate>
     <max-estimate>576000</max-estimate>
+    <start-constraint-date>2014-06-12T21:15:00.000Z</start-constraint-date>
     <prerequisite-task idref="t436"/>
+    <start-no-earlier-than>2014-06-12T21:15:00.000Z</start-no-earlier-than>
   </task>
   <task id="t365">
     <title>Software</title>
-    <leveled-start>2014-05-16T15:00:00.000Z</leveled-start>
+    <leveled-start>2014-06-26T21:15:00.000Z</leveled-start>
     <effort>288000</effort>
     <min-estimate>28800</min-estimate>
     <max-estimate>576000</max-estimate>
@@ -350,18 +355,17 @@
   </task>
   <task id="t366">
     <title>ROC Software</title>
-    <leveled-start>2014-06-13T15:00:00.000Z</leveled-start>
+    <leveled-start>2014-07-24T21:15:00.000Z</leveled-start>
     <effort>288000</effort>
     <min-estimate>28800</min-estimate>
     <prerequisite-task idref="t363"/>
   </task>
   <task id="t367">
     <title>Testing</title>
-    <leveled-start>2014-06-27T15:00:00.000Z</leveled-start>
+    <leveled-start>2014-08-07T21:15:00.000Z</leveled-start>
     <effort>288000</effort>
     <min-estimate>28800</min-estimate>
     <prerequisite-task idref="t366"/>
-    <prerequisite-task idref="t440"/>
   </task>
   <task id="t368">
     <title>Design</title>
@@ -372,22 +376,23 @@
   <task id="t369">
     <title>Procurement</title>
     <leveled-start>2014-04-14T15:00:00.000Z</leveled-start>
-    <effort>432000</effort>
+    <effort>1891800</effort>
     <min-estimate>28800</min-estimate>
     <prerequisite-task idref="t368"/>
   </task>
   <task id="t370">
     <title>Assembly</title>
-    <leveled-start>2014-05-05T15:00:00.000Z</leveled-start>
+    <leveled-start>2014-07-14T21:30:00.000Z</leveled-start>
     <effort>144000</effort>
     <min-estimate>28800</min-estimate>
     <prerequisite-task idref="t369"/>
   </task>
   <task id="t371">
     <title>Testing</title>
-    <leveled-start>2014-05-12T15:00:00.000Z</leveled-start>
-    <effort>432000</effort>
+    <leveled-start>2014-07-21T21:30:00.000Z</leveled-start>
+    <effort>288000</effort>
     <min-estimate>28800</min-estimate>
+    <max-estimate>432000</max-estimate>
     <prerequisite-task idref="t370"/>
     <prerequisite-task idref="t445"/>
     <prerequisite-task idref="t445"/>
@@ -586,22 +591,21 @@
   </task>
   <task id="t402">
     <title>Assembly</title>
-    <leveled-start>2014-07-09T15:00:00.000Z</leveled-start>
-    <effort>288000</effort>
+    <leveled-start>2014-09-01T15:00:00.000Z</leveled-start>
+    <effort>144000</effort>
     <min-estimate>28800</min-estimate>
-    <prerequisite-task idref="t345"/>
-    <prerequisite-task idref="t418"/>
+    <max-estimate>288000</max-estimate>
+    <prerequisite-task idref="t416"/>
     <prerequisite-task idref="t426"/>
+    <prerequisite-task idref="t434"/>
   </task>
   <task id="t404">
     <title>Testing</title>
-    <leveled-start>2014-07-30T15:00:00.000Z</leveled-start>
+    <leveled-start>2014-09-01T15:00:00.000Z</leveled-start>
     <effort>720000</effort>
     <min-estimate>28800</min-estimate>
-    <prerequisite-task idref="t346"/>
-    <prerequisite-task idref="t402"/>
     <prerequisite-task idref="t416"/>
-    <prerequisite-task idref="t467"/>
+    <prerequisite-task idref="t420"/>
   </task>
   <task id="t407">
     <title>Design</title>
@@ -629,9 +633,9 @@
   <task id="t410">
     <title>Testing</title>
     <leveled-start>2014-01-28T16:00:00.000Z</leveled-start>
-    <effort>1987200</effort>
+    <effort>3063600</effort>
     <min-estimate>28800</min-estimate>
-    <max-estimate>2390400</max-estimate>
+    <max-estimate>3456000</max-estimate>
     <prerequisite-task idref="t409"/>
   </task>
   <task id="t411">
@@ -651,19 +655,19 @@
   <task id="t416">
     <title>FE Boards Complete</title>
     <type>milestone</type>
-    <leveled-start>2014-07-19T00:00:00.000Z</leveled-start>
+    <leveled-start>2014-08-30T00:00:00.000Z</leveled-start>
     <prerequisite-task idref="t442"/>
   </task>
   <task id="t417">
     <title>Flange Boards Complete</title>
     <type>milestone</type>
-    <leveled-start>2014-05-17T00:00:00.000Z</leveled-start>
+    <leveled-start>2014-07-25T18:00:00.000Z</leveled-start>
     <prerequisite-task idref="t447"/>
   </task>
   <task id="t418">
     <title>Cables Complete</title>
     <type>milestone</type>
-    <leveled-start>2014-06-17T00:00:00.000Z</leveled-start>
+    <leveled-start>2014-08-20T00:00:00.000Z</leveled-start>
     <prerequisite-task idref="t354"/>
     <prerequisite-task idref="t355"/>
     <prerequisite-task idref="t356"/>
@@ -679,14 +683,15 @@
   <task id="t420">
     <title>RCE DAQ Complete</title>
     <type>milestone</type>
-    <leveled-start>2014-07-11T00:00:00.000Z</leveled-start>
+    <leveled-start>2014-08-21T21:15:00.000Z</leveled-start>
     <prerequisite-task idref="t367"/>
     <prerequisite-task idref="t371"/>
+    <prerequisite-task idref="t652"/>
   </task>
   <task id="t421">
     <title>SVT DAQ Complete</title>
     <type>milestone</type>
-    <leveled-start>2014-09-03T00:00:00.000Z</leveled-start>
+    <leveled-start>2014-10-04T00:00:00.000Z</leveled-start>
     <prerequisite-task idref="t404"/>
   </task>
   <task id="t422">
@@ -706,6 +711,8 @@
     <child-task idref="t427"/>
     <child-task idref="t428"/>
     <child-task idref="t434"/>
+    <child-task idref="t649"/>
+    <child-task idref="t650"/>
     <child-task idref="t429"/>
   </task>
   <task id="t424">
@@ -720,9 +727,8 @@
   <task id="t425">
     <title>Procurement</title>
     <leveled-start>2013-11-22T16:00:00.000Z</leveled-start>
-    <effort>4406400</effort>
+    <effort>4988700</effort>
     <min-estimate>28800</min-estimate>
-    <max-estimate>4924800</max-estimate>
     <note>
       <text>
         <p>
@@ -735,7 +741,7 @@
   </task>
   <task id="t426">
     <title>Testing</title>
-    <leveled-start>2014-06-25T15:00:00.000Z</leveled-start>
+    <leveled-start>2014-07-23T16:45:00.000Z</leveled-start>
     <effort>288000</effort>
     <min-estimate>28800</min-estimate>
     <max-estimate>432000</max-estimate>
@@ -751,18 +757,18 @@
   <task id="t428">
     <title>Procurement</title>
     <leveled-start>2014-05-12T15:00:00.000Z</leveled-start>
-    <effort>259200</effort>
+    <effort>522900</effort>
     <min-estimate>28800</min-estimate>
     <max-estimate>2448000</max-estimate>
     <prerequisite-task idref="t427"/>
   </task>
   <task id="t429">
     <title>Testing</title>
-    <leveled-start>2014-06-13T15:00:00.000Z</leveled-start>
+    <leveled-start>2014-08-18T15:00:00.000Z</leveled-start>
     <effort>57600</effort>
     <min-estimate>28800</min-estimate>
     <max-estimate>144000</max-estimate>
-    <prerequisite-task idref="t434"/>
+    <prerequisite-task idref="t650"/>
   </task>
   <task id="t430">
     <title>Design</title>
@@ -788,8 +794,8 @@
   </task>
   <task id="t434">
     <title>Assembly</title>
-    <leveled-start>2014-05-23T15:00:00.000Z</leveled-start>
-    <effort>432000</effort>
+    <leveled-start>2014-06-05T16:15:00.000Z</leveled-start>
+    <effort>887400</effort>
     <min-estimate>28800</min-estimate>
     <max-estimate>1929600</max-estimate>
     <prerequisite-task idref="t428"/>
@@ -812,58 +818,64 @@
   </task>
   <task id="t437">
     <title>Procurement 2nd spin</title>
-    <leveled-start>2014-06-16T15:00:00.000Z</leveled-start>
-    <effort>216000</effort>
+    <leveled-start>2014-08-04T15:00:00.000Z</leveled-start>
+    <effort>144000</effort>
     <min-estimate>28800</min-estimate>
+    <max-estimate>288000</max-estimate>
     <prerequisite-task idref="t438"/>
   </task>
   <task id="t438">
     <title>Layout 2nd spin</title>
-    <leveled-start>2014-06-02T15:00:00.000Z</leveled-start>
-    <effort>288000</effort>
+    <leveled-start>2014-07-28T15:00:00.000Z</leveled-start>
+    <effort>144000</effort>
     <min-estimate>28800</min-estimate>
+    <max-estimate>288000</max-estimate>
     <prerequisite-task idref="t440"/>
   </task>
   <task id="t439">
     <title>Assembly</title>
-    <leveled-start>2014-06-25T20:00:00.000Z</leveled-start>
-    <effort>216000</effort>
+    <leveled-start>2014-08-11T15:00:00.000Z</leveled-start>
+    <effort>288000</effort>
     <min-estimate>28800</min-estimate>
     <prerequisite-task idref="t437"/>
   </task>
   <task id="t440">
     <title>FE Board Functionality Complete</title>
     <type>milestone</type>
-    <leveled-start>2014-05-31T00:00:00.000Z</leveled-start>
+    <leveled-start>2014-07-26T00:00:00.000Z</leveled-start>
     <prerequisite-task idref="t353"/>
   </task>
   <task id="t442">
     <title>Production Testing</title>
-    <leveled-start>2014-07-07T15:00:00.000Z</leveled-start>
-    <effort>288000</effort>
+    <leveled-start>2014-08-25T15:00:00.000Z</leveled-start>
+    <effort>144000</effort>
     <min-estimate>28800</min-estimate>
+    <max-estimate>288000</max-estimate>
     <prerequisite-task idref="t439"/>
   </task>
   <task id="t445">
     <title>Flange Boards Functionality Complete</title>
     <type>milestone</type>
-    <leveled-start>2014-05-03T00:00:00.000Z</leveled-start>
+    <leveled-start>2014-06-25T18:00:00.000Z</leveled-start>
     <completion-percentage>1</completion-percentage>
+    <start-constraint-date>2014-06-16T22:30:00.000Z</start-constraint-date>
     <prerequisite-task idref="t410"/>
+    <start-no-earlier-than>2014-06-16T22:30:00.000Z</start-no-earlier-than>
   </task>
   <task id="t446">
     <title>Procurement Production</title>
-    <leveled-start>2014-05-05T15:00:00.000Z</leveled-start>
-    <effort>144000</effort>
+    <leveled-start>2014-06-27T18:00:00.000Z</leveled-start>
+    <effort>288000</effort>
     <min-estimate>28800</min-estimate>
-    <prerequisite-task idref="t445"/>
+    <max-estimate>1324800</max-estimate>
+    <prerequisite-task idref="t634"/>
   </task>
   <task id="t447">
     <title>Production Testing</title>
-    <leveled-start>2014-05-12T15:00:00.000Z</leveled-start>
+    <leveled-start>2014-07-18T18:00:00.000Z</leveled-start>
     <effort>144000</effort>
     <min-estimate>28800</min-estimate>
-    <prerequisite-task idref="t446"/>
+    <prerequisite-task idref="t636"/>
   </task>
   <task id="t448">
     <title>Power Flange Boards</title>
@@ -875,6 +887,10 @@
     <child-task idref="t450"/>
     <child-task idref="t451"/>
     <child-task idref="t452"/>
+    <child-task idref="t638"/>
+    <child-task idref="t639"/>
+    <child-task idref="t640"/>
+    <child-task idref="t642"/>
     <child-task idref="t456"/>
   </task>
   <task id="t449">
@@ -887,7 +903,7 @@
   </task>
   <task id="t450">
     <title>Procurement</title>
-    <leveled-start>2014-05-05T15:00:00.000Z</leveled-start>
+    <leveled-start>2014-05-29T17:30:00.000Z</leveled-start>
     <effort>144000</effort>
     <min-estimate>28800</min-estimate>
     <start-constraint-date>2014-01-14T16:00:00.000Z</start-constraint-date>
@@ -896,30 +912,31 @@
   </task>
   <task id="t451">
     <title>Assembly</title>
-    <leveled-start>2014-05-12T15:00:00.000Z</leveled-start>
-    <effort>144000</effort>
+    <leveled-start>2014-06-05T17:30:00.000Z</leveled-start>
+    <effort>432000</effort>
     <min-estimate>28800</min-estimate>
-    <max-estimate>288000</max-estimate>
     <prerequisite-task idref="t450"/>
   </task>
   <task id="t452">
     <title>Testing</title>
-    <leveled-start>2014-05-19T15:00:00.000Z</leveled-start>
-    <effort>28800</effort>
+    <leveled-start>2014-06-26T17:30:00.000Z</leveled-start>
+    <effort>57600</effort>
+    <min-estimate>28800</min-estimate>
     <max-estimate>2390400</max-estimate>
     <prerequisite-task idref="t451"/>
   </task>
   <task id="t456">
     <title>Power Flange Boards Complete</title>
     <type>milestone</type>
-    <leveled-start>2014-05-20T00:00:00.000Z</leveled-start>
-    <prerequisite-task idref="t452"/>
+    <leveled-start>2014-07-28T17:30:00.000Z</leveled-start>
+    <prerequisite-task idref="t642"/>
   </task>
   <task id="t457">
     <title>Layout</title>
     <leveled-start>2014-03-26T15:00:00.000Z</leveled-start>
-    <effort>806400</effort>
+    <effort>1333800</effort>
     <min-estimate>28800</min-estimate>
+    <max-estimate>1369800</max-estimate>
     <prerequisite-task idref="t460"/>
   </task>
   <task id="t460">
@@ -945,22 +962,6 @@
     <effort>144000</effort>
     <min-estimate>28800</min-estimate>
     <prerequisite-task idref="t462"/>
-  </task>
-  <task id="t467">
-    <title>EPICS GUI testing</title>
-    <leveled-start>2014-07-23T15:00:00.000Z</leveled-start>
-    <effort>144000</effort>
-    <min-estimate>28800</min-estimate>
-    <note>
-      <text>
-        <p>
-          <run>
-            <lit>Bryan visits SLAC to help setup EPICS</lit>
-          </run>
-        </p>
-      </text>
-    </note>
-    <prerequisite-task idref="t402"/>
   </task>
   <task id="t468">
     <title>EPICS IOC software</title>
@@ -1029,7 +1030,7 @@
   <task id="t477">
     <title>Integration at SLAC</title>
     <type>group</type>
-    <leveled-start>2014-08-04T15:42:22.000Z</leveled-start>
+    <leveled-start>2014-09-01T15:00:00.000Z</leveled-start>
     <child-task idref="t507"/>
     <child-task idref="t508"/>
     <child-task idref="t509"/>
@@ -1037,7 +1038,7 @@
   <task id="t478">
     <title>Integration at JLab</title>
     <type>group</type>
-    <leveled-start>2014-09-15T15:42:22.000Z</leveled-start>
+    <leveled-start>2014-10-13T15:00:00.000Z</leveled-start>
     <child-task idref="t576"/>
     <child-task idref="t577"/>
     <child-task idref="t578"/>
@@ -1257,7 +1258,7 @@
   <task id="t504">
     <title>Shipping</title>
     <type>group</type>
-    <leveled-start>2014-05-12T15:00:00.000Z</leveled-start>
+    <leveled-start>2014-07-18T22:00:00.000Z</leveled-start>
     <child-task idref="t580"/>
     <child-task idref="t581"/>
     <child-task idref="t582"/>
@@ -1272,7 +1273,7 @@
   <task id="t505">
     <title>Services complete</title>
     <type>milestone</type>
-    <leveled-start>2014-07-26T00:00:00.000Z</leveled-start>
+    <leveled-start>2014-09-26T22:00:00.000Z</leveled-start>
     <prerequisite-task idref="t510"/>
     <prerequisite-task idref="t584"/>
   </task>
@@ -1285,7 +1286,7 @@
   </task>
   <task id="t507">
     <title>Assembly</title>
-    <leveled-start>2014-08-04T15:42:22.000Z</leveled-start>
+    <leveled-start>2014-09-01T15:00:00.000Z</leveled-start>
     <effort>288000</effort>
     <min-estimate>28800</min-estimate>
     <prerequisite-task idref="t416"/>
@@ -1296,7 +1297,7 @@
   </task>
   <task id="t508">
     <title>Testing</title>
-    <leveled-start>2014-08-18T15:42:22.000Z</leveled-start>
+    <leveled-start>2014-09-15T15:00:00.000Z</leveled-start>
     <effort>576000</effort>
     <min-estimate>28800</min-estimate>
     <prerequisite-task idref="t507"/>
@@ -1304,14 +1305,14 @@
   <task id="t509">
     <title>SVT ready to ship</title>
     <type>milestone</type>
-    <leveled-start>2014-09-15T15:42:22.000Z</leveled-start>
+    <leveled-start>2014-10-11T00:00:00.000Z</leveled-start>
     <prerequisite-task idref="t421"/>
     <prerequisite-task idref="t505"/>
     <prerequisite-task idref="t508"/>
   </task>
   <task id="t510">
     <title>Testing</title>
-    <leveled-start>2014-06-03T15:00:00.000Z</leveled-start>
+    <leveled-start>2014-08-04T17:30:00.000Z</leveled-start>
     <effort>288000</effort>
     <min-estimate>28800</min-estimate>
     <max-estimate>576000</max-estimate>
@@ -1323,7 +1324,8 @@
         <color r="1" g="0" b="0"/>
       </value>
     </style>
-    <prerequisite-task idref="t515"/>
+    <prerequisite-task idref="t646"/>
+    <prerequisite-task idref="t647"/>
   </task>
   <task id="t511">
     <title>Tracker Support Complete</title>
@@ -1378,10 +1380,10 @@
   </task>
   <task id="t515">
     <title>Assembly</title>
-    <leveled-start>2014-05-20T15:00:00.000Z</leveled-start>
-    <effort>288000</effort>
-    <min-estimate>28800</min-estimate>
-    <start-constraint-date>2014-04-16T07:00:00.000Z</start-constraint-date>
+    <type>group</type>
+    <leveled-start>2014-07-25T18:00:00.000Z</leveled-start>
+    <child-task idref="t646"/>
+    <child-task idref="t647"/>
     <style>
       <value key="font-fill">
         <color r="1" g="0" b="0"/>
@@ -1390,10 +1392,7 @@
         <color r="1" g="0" b="0"/>
       </value>
     </style>
-    <prerequisite-task idref="t417"/>
-    <prerequisite-task idref="t456"/>
     <prerequisite-task idref="t514"/>
-    <start-no-earlier-than>2014-04-16T07:00:00.000Z</start-no-earlier-than>
   </task>
   <task id="t516">
     <title>Disassembly</title>
@@ -2042,20 +2041,20 @@
   </task>
   <task id="t576">
     <title>Assembly</title>
-    <leveled-start>2014-09-15T15:42:22.000Z</leveled-start>
+    <leveled-start>2014-10-13T15:00:00.000Z</leveled-start>
     <effort>288000</effort>
     <min-estimate>28800</min-estimate>
   </task>
   <task id="t577">
     <title>Testing</title>
-    <leveled-start>2014-09-29T15:42:22.000Z</leveled-start>
+    <leveled-start>2014-10-27T15:00:00.000Z</leveled-start>
     <effort>576000</effort>
     <min-estimate>28800</min-estimate>
     <prerequisite-task idref="t576"/>
   </task>
   <task id="t578">
     <title>Installation</title>
-    <leveled-start>2014-10-27T15:42:22.000Z</leveled-start>
+    <leveled-start>2014-11-24T16:00:00.000Z</leveled-start>
     <effort>144000</effort>
     <min-estimate>28800</min-estimate>
     <prerequisite-task idref="t577"/>
@@ -2063,15 +2062,16 @@
   <task id="t579">
     <title>SVT project complete</title>
     <type>milestone</type>
-    <leveled-start>2014-11-03T16:42:22.000Z</leveled-start>
+    <leveled-start>2014-11-29T01:00:00.000Z</leveled-start>
     <prerequisite-task idref="t578"/>
   </task>
   <task id="t580">
     <title>Design</title>
-    <leveled-start>2014-05-12T15:00:00.000Z</leveled-start>
-    <effort>432000</effort>
+    <leveled-start>2014-07-18T22:00:00.000Z</leveled-start>
+    <effort>288000</effort>
     <min-estimate>28800</min-estimate>
-    <start-constraint-date>2014-04-28T15:00:00.000Z</start-constraint-date>
+    <max-estimate>432000</max-estimate>
+    <start-constraint-date>2014-07-18T22:00:00.000Z</start-constraint-date>
     <style>
       <value key="font-fill">
         <color r="1" g="0" b="0"/>
@@ -2079,11 +2079,11 @@
     </style>
     <prerequisite-task idref="t536"/>
     <prerequisite-task idref="t559"/>
-    <start-no-earlier-than>2014-04-28T15:00:00.000Z</start-no-earlier-than>
+    <start-no-earlier-than>2014-07-18T22:00:00.000Z</start-no-earlier-than>
   </task>
   <task id="t581">
     <title>Procurement</title>
-    <leveled-start>2014-06-02T15:00:00.000Z</leveled-start>
+    <leveled-start>2014-08-01T22:00:00.000Z</leveled-start>
     <effort>576000</effort>
     <min-estimate>28800</min-estimate>
     <style>
@@ -2095,7 +2095,7 @@
   </task>
   <task id="t582">
     <title>Fabrication</title>
-    <leveled-start>2014-06-30T15:00:00.000Z</leveled-start>
+    <leveled-start>2014-08-29T22:00:00.000Z</leveled-start>
     <effort>288000</effort>
     <min-estimate>28800</min-estimate>
     <style>
@@ -2107,7 +2107,7 @@
   </task>
   <task id="t583">
     <title>Assembly</title>
-    <leveled-start>2014-07-14T15:00:00.000Z</leveled-start>
+    <leveled-start>2014-09-12T22:00:00.000Z</leveled-start>
     <effort>144000</effort>
     <min-estimate>28800</min-estimate>
     <style>
@@ -2119,7 +2119,7 @@
   </task>
   <task id="t584">
     <title>Testing</title>
-    <leveled-start>2014-07-21T15:00:00.000Z</leveled-start>
+    <leveled-start>2014-09-19T22:00:00.000Z</leveled-start>
     <effort>144000</effort>
     <min-estimate>28800</min-estimate>
     <style>
@@ -2496,6 +2496,90 @@
     <effort>288000</effort>
     <min-estimate>28800</min-estimate>
     <prerequisite-task idref="t629"/>
+  </task>
+  <task id="t633">
+    <title>2nd spin design</title>
+    <leveled-start>2014-06-25T18:00:00.000Z</leveled-start>
+    <effort>28800</effort>
+    <prerequisite-task idref="t445"/>
+  </task>
+  <task id="t634">
+    <title>2nd spin layout</title>
+    <leveled-start>2014-06-26T18:00:00.000Z</leveled-start>
+    <effort>28800</effort>
+    <prerequisite-task idref="t633"/>
+  </task>
+  <task id="t636">
+    <title>Assembly</title>
+    <leveled-start>2014-07-11T18:00:00.000Z</leveled-start>
+    <effort>144000</effort>
+    <min-estimate>28800</min-estimate>
+    <prerequisite-task idref="t446"/>
+  </task>
+  <task id="t638">
+    <title>2nd spin design</title>
+    <leveled-start>2014-06-30T17:30:00.000Z</leveled-start>
+    <effort>57600</effort>
+    <min-estimate>28800</min-estimate>
+    <prerequisite-task idref="t452"/>
+  </task>
+  <task id="t639">
+    <title>2nd spin layout</title>
+    <leveled-start>2014-07-02T17:30:00.000Z</leveled-start>
+    <effort>86400</effort>
+    <min-estimate>28800</min-estimate>
+    <prerequisite-task idref="t638"/>
+  </task>
+  <task id="t640">
+    <title>2nd spin procurement</title>
+    <leveled-start>2014-07-07T17:30:00.000Z</leveled-start>
+    <effort>144000</effort>
+    <min-estimate>28800</min-estimate>
+    <prerequisite-task idref="t639"/>
+  </task>
+  <task id="t642">
+    <title>Assembly</title>
+    <leveled-start>2014-07-14T17:30:00.000Z</leveled-start>
+    <effort>288000</effort>
+    <min-estimate>28800</min-estimate>
+    <prerequisite-task idref="t640"/>
+  </task>
+  <task id="t646">
+    <title>Flange board assembly</title>
+    <leveled-start>2014-07-25T18:00:00.000Z</leveled-start>
+    <effort>144000</effort>
+    <min-estimate>28800</min-estimate>
+    <prerequisite-task idref="t417"/>
+  </task>
+  <task id="t647">
+    <title>Power flange board assembly</title>
+    <leveled-start>2014-07-28T17:30:00.000Z</leveled-start>
+    <effort>144000</effort>
+    <min-estimate>28800</min-estimate>
+    <prerequisite-task idref="t456"/>
+  </task>
+  <task id="t649">
+    <title>Extra procurement HV wire</title>
+    <leveled-start>2014-07-18T15:00:00.000Z</leveled-start>
+    <effort>576000</effort>
+    <min-estimate>28800</min-estimate>
+    <start-constraint-date>2014-07-18T15:00:00.000Z</start-constraint-date>
+    <start-no-earlier-than>2014-07-18T15:00:00.000Z</start-no-earlier-than>
+  </task>
+  <task id="t650">
+    <title>Assembly extra HV wire</title>
+    <leveled-start>2014-08-15T15:00:00.000Z</leveled-start>
+    <effort>28800</effort>
+    <prerequisite-task idref="t649"/>
+  </task>
+  <task id="t652">
+    <title>EPICS slow control</title>
+    <leveled-start>2014-06-02T15:00:00.000Z</leveled-start>
+    <effort>1584000</effort>
+    <min-estimate>28800</min-estimate>
+    <max-estimate>1629900</max-estimate>
+    <start-constraint-date>2014-06-02T15:00:00.000Z</start-constraint-date>
+    <start-no-earlier-than>2014-06-02T15:00:00.000Z</start-no-earlier-than>
   </task>
   <critical-path root="-1" enabled="true" resources="false">
     <color r="1" g="0.5" b="0.5"/>

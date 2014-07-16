@@ -8,16 +8,16 @@
     <status-display>extended</status-display>
     <task-view>
       <split-view-divider-position>500</split-view-divider-position>
-      <outline x="0" y="21.5" w="500" h="727">
+      <outline x="0" y="309" w="500" h="727">
         <column name="Violations" width="20"/>
         <column name="Notes" width="20"/>
         <column name="Title" width="385"/>
         <column name="Effort" width="70"/>
-        <expanded-items idrefs="t500 t531 t493 t558 t471 t498 t348 t491 t534 t501 t361 t532 t494 t344 t499 t530 t492 t342 t497 t362 t533 t495 t522"/>
-        <expanded-item-notes idrefs="t467 t425"/>
-        <selected-items-at-filter-time idrefs="t436 t629 t462 t440 t467 t622 t445 t460 t627 t439 t625 t437 t463 t468 t457 t446 t623 t628 t626 t438 t630 t442 t447"/>
+        <expanded-items idrefs="t473 t500 t531 t493 t558 t471 t498 t348 t503 t491 t480 t534 t501 t532 t494 t344 t499 t515 t530 t492 t342 t497 t533 t522 t495"/>
+        <expanded-item-notes idrefs="t425"/>
+        <selected-items-at-filter-time idrefs="t438 t446 t626 t638 t442 t622 t634 t646 t462 t630 t642 t439 t650 t447 t627 t639 t467 t635 t623 t647 t463 t643 t651 t436 t628 t468 t636 t648 t440 t644 t460 t640 t652 t437 t629 t445 t457 t625 t637 t649 t633 t645 t641 t653"/>
       </outline>
-      <gantt-view x="-21.5" y="21.5" w="939" h="727">
+      <gantt-view x="2821" y="309" w="939" h="727">
         <view-mode>actual</view-mode>
         <critical-path/>
         <dependency-lines/>
@@ -53,7 +53,7 @@
         <scale scale-name="Day" full-day-width="1215"/>
         <scale scale-name="Hour" full-day-width="65880"/>
         <scale scale-name="Minute" full-day-width="64800"/>
-        <scale scale-name="Month" full-day-width="4.74473">
+        <scale scale-name="Month" full-day-width="23.709">
           <selected/>
         </scale>
         <scale scale-name="Quarter" full-day-width="5.59851"/>
@@ -123,7 +123,7 @@
     </calendar>
   </window>
   <project>
-    <next-task-id>632</next-task-id>
+    <next-task-id>654</next-task-id>
     <next-resource-id>2</next-resource-id>
     <scenario id="bkBbjkD2avB" name="Actual" filename="Actual.xml"/>
     <date-display dates="true" times="true" seconds="false"/>
